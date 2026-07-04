@@ -1,0 +1,15 @@
+[
+  {
+    "problemId": "7",
+    "problemTitle": "Reverse Integer",
+    "problemSlug": "reverse-integer",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2055651736",
+    "timestamp": "1783165727",
+    "path": "Medium/0007_Reverse_Integer.java"
+  }
+]
