@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 2
+Total Solved: 3
 
 ## Easy
 
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
+- Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 
 ## Medium
 
@@ -18,7 +19,7 @@ Total Solved: 2
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 1 |
+| Easy | 2 |
 | Medium | 1 |
 | Hard | 0 |
 
