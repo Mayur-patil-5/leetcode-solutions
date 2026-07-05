@@ -24,5 +24,18 @@
     "submissionId": "2057040775",
     "timestamp": "1783264144",
     "path": "Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java"
+  },
+  {
+    "problemId": "1635",
+    "problemTitle": "Number of Good Pairs",
+    "problemSlug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2057060046",
+    "timestamp": "1783265391",
+    "path": "Easy/1635_Number_of_Good_Pairs.java"
   }
 ]
