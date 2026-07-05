@@ -11,5 +11,18 @@
     "submissionId": "2055651736",
     "timestamp": "1783165727",
     "path": "Medium/0007_Reverse_Integer.java"
+  },
+  {
+    "problemId": "1421",
+    "problemTitle": "Find Numbers with Even Number of Digits",
+    "problemSlug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "44.7 MB",
+    "submissionId": "2057040775",
+    "timestamp": "1783264144",
+    "path": "Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java"
   }
 ]
