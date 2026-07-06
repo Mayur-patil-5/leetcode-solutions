@@ -37,5 +37,18 @@
     "submissionId": "2057060046",
     "timestamp": "1783265391",
     "path": "Easy/1635_Number_of_Good_Pairs.java"
+  },
+  {
+    "problemId": "268",
+    "problemTitle": "Missing Number",
+    "problemSlug": "missing-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2058378861",
+    "timestamp": "1783359526",
+    "path": "Easy/0268_Missing_Number.java"
   }
 ]
