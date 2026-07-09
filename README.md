@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
+- Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
@@ -20,7 +21,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 1 |
 | Hard | 0 |
 
