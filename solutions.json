@@ -50,5 +50,18 @@
     "submissionId": "2058378861",
     "timestamp": "1783359526",
     "path": "Easy/0268_Missing_Number.java"
+  },
+  {
+    "problemId": "27",
+    "problemTitle": "Remove Element",
+    "problemSlug": "remove-element",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.4 MB",
+    "submissionId": "2061935100",
+    "timestamp": "1783613019",
+    "path": "Easy/0027_Remove_Element.java"
   }
 ]
