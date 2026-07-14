@@ -63,5 +63,18 @@
     "submissionId": "2061935100",
     "timestamp": "1783613019",
     "path": "Easy/0027_Remove_Element.java"
+  },
+  {
+    "problemId": "162",
+    "problemTitle": "Find Peak Element",
+    "problemSlug": "find-peak-element",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.5 MB",
+    "submissionId": "2067818103",
+    "timestamp": "1784056519",
+    "path": "Medium/0162_Find_Peak_Element.java"
   }
 ]
