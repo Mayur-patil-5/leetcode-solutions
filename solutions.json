@@ -76,5 +76,18 @@
     "submissionId": "2067818103",
     "timestamp": "1784056519",
     "path": "Medium/0162_Find_Peak_Element.java"
+  },
+  {
+    "problemId": "3995",
+    "problemTitle": "GCD of Odd and Even Sums",
+    "problemSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2071218189",
+    "timestamp": "1784299034",
+    "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.java"
   }
 ]
