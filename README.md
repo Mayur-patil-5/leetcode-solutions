@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 7
+Total Solved: 8
 
 ## Easy
 
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
+- Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
@@ -23,7 +24,7 @@ Total Solved: 7
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 2 |
 | Hard | 0 |
 
