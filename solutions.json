@@ -89,5 +89,18 @@
     "submissionId": "2071218189",
     "timestamp": "1784299034",
     "path": "Easy/3995_GCD_of_Odd_and_Even_Sums.java"
+  },
+  {
+    "problemId": "232",
+    "problemTitle": "Implement Queue using Stacks",
+    "problemSlug": "implement-queue-using-stacks",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "42.8 MB",
+    "submissionId": "2073292007",
+    "timestamp": "1784452999",
+    "path": "Easy/0232_Implement_Queue_using_Stacks.java"
   }
 ]
