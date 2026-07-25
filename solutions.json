@@ -102,5 +102,18 @@
     "submissionId": "2073292007",
     "timestamp": "1784452999",
     "path": "Easy/0232_Implement_Queue_using_Stacks.java"
+  },
+  {
+    "problemId": "3859",
+    "problemTitle": "Maximum Product of Two Digits",
+    "problemSlug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2080703823",
+    "timestamp": "1784981312",
+    "path": "Easy/3859_Maximum_Product_of_Two_Digits.java"
   }
 ]
