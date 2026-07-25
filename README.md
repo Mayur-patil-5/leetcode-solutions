@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 8
+Total Solved: 9
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 8
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
+- Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 
 ## Medium
@@ -24,7 +25,7 @@ Total Solved: 8
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 2 |
 | Hard | 0 |
 
