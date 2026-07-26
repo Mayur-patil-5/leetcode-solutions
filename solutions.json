@@ -115,5 +115,18 @@
     "submissionId": "2080703823",
     "timestamp": "1784981312",
     "path": "Easy/3859_Maximum_Product_of_Two_Digits.java"
+  },
+  {
+    "problemId": "628",
+    "problemTitle": "Maximum Product of Three Numbers",
+    "problemSlug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "17 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2081999859",
+    "timestamp": "1785068068",
+    "path": "Easy/0628_Maximum_Product_of_Three_Numbers.java"
   }
 ]
