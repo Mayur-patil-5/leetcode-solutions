@@ -1,12 +1,13 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
+- First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
@@ -26,7 +27,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 2 |
 | Hard | 0 |
 
