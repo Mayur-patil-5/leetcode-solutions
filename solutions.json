@@ -128,5 +128,18 @@
     "submissionId": "2081999859",
     "timestamp": "1785068068",
     "path": "Easy/0628_Maximum_Product_of_Three_Numbers.java"
+  },
+  {
+    "problemId": "387",
+    "problemTitle": "First Unique Character in a String",
+    "problemSlug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2086160846",
+    "timestamp": "1785331522",
+    "path": "Easy/0387_First_Unique_Character_in_a_String.java"
   }
 ]
