@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
+- Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
@@ -27,7 +28,7 @@ Total Solved: 11
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 2 |
 | Hard | 0 |
 
