@@ -154,5 +154,18 @@
     "submissionId": "2090365148",
     "timestamp": "1785604720",
     "path": "Easy/0058_Length_of_Last_Word.java"
+  },
+  {
+    "problemId": "1",
+    "problemTitle": "Two Sum",
+    "problemSlug": "two-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "45 ms",
+    "memory": "46.9 MB",
+    "submissionId": "2090409473",
+    "timestamp": "1785606749",
+    "path": "Easy/0001_Two_Sum.java"
   }
 ]
