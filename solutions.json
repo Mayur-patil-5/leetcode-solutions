@@ -141,5 +141,18 @@
     "submissionId": "2086160846",
     "timestamp": "1785331522",
     "path": "Easy/0387_First_Unique_Character_in_a_String.java"
+  },
+  {
+    "problemId": "58",
+    "problemTitle": "Length of Last Word",
+    "problemSlug": "length-of-last-word",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2090364706",
+    "timestamp": "1785604700",
+    "path": "Easy/0058_Length_of_Last_Word.java"
   }
 ]
