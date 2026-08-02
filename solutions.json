@@ -180,5 +180,18 @@
     "submissionId": "2091093312",
     "timestamp": "1785658642",
     "path": "Easy/0026_Remove_Duplicates_from_Sorted_Array.java"
+  },
+  {
+    "problemId": "69",
+    "problemTitle": "Sqrt(x)",
+    "problemSlug": "sqrtx",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.6 MB",
+    "submissionId": "2091227199",
+    "timestamp": "1785667030",
+    "path": "Easy/0069_Sqrtx.java"
   }
 ]
