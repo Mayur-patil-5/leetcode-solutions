@@ -167,5 +167,18 @@
     "submissionId": "2090412917",
     "timestamp": "1785606912",
     "path": "Easy/0001_Two_Sum.java"
+  },
+  {
+    "problemId": "26",
+    "problemTitle": "Remove Duplicates from Sorted Array",
+    "problemSlug": "remove-duplicates-from-sorted-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2091093312",
+    "timestamp": "1785658642",
+    "path": "Easy/0026_Remove_Duplicates_from_Sorted_Array.java"
   }
 ]
