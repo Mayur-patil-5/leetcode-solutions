@@ -193,5 +193,18 @@
     "submissionId": "2091227199",
     "timestamp": "1785667030",
     "path": "Easy/0069_Sqrtx.java"
+  },
+  {
+    "problemId": "909",
+    "problemTitle": "Stone Game",
+    "problemSlug": "stone-game",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2091526852",
+    "timestamp": "1785683795",
+    "path": "Medium/0909_Stone_Game.java"
   }
 ]
