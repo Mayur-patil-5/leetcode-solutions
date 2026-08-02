@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
@@ -29,7 +30,7 @@ Total Solved: 13
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 2 |
 | Hard | 0 |
 
