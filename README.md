@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
@@ -32,7 +33,7 @@ Total Solved: 16
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 13 |
+| Easy | 14 |
 | Medium | 3 |
 | Hard | 0 |
 
