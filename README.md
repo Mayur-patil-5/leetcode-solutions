@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 17
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
+- Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
 
 ## Medium
 
@@ -33,7 +34,7 @@ Total Solved: 17
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 14 |
+| Easy | 15 |
 | Medium | 3 |
 | Hard | 0 |
 
