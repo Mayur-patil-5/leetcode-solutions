@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 18
+Total Solved: 19
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 18
 ## Medium
 
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
+- Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 
@@ -35,7 +36,7 @@ Total Solved: 18
 | Difficulty | Count |
 |------------|--------|
 | Easy | 15 |
-| Medium | 3 |
+| Medium | 4 |
 | Hard | 0 |
 
 ---
