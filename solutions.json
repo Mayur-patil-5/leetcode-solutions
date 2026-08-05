@@ -232,5 +232,18 @@
     "submissionId": "2094409025",
     "timestamp": "1785865568",
     "path": "Easy/4107_Find_Missing_Elements.java"
+  },
+  {
+    "problemId": "75",
+    "problemTitle": "Sort Colors",
+    "problemSlug": "sort-colors",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2095424760",
+    "timestamp": "1785939584",
+    "path": "Medium/0075_Sort_Colors.java"
   }
 ]
