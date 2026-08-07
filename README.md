@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 20
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
+- Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
@@ -36,7 +37,7 @@ Total Solved: 20
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 16 |
+| Easy | 17 |
 | Medium | 4 |
 | Hard | 0 |
 
