@@ -271,5 +271,18 @@
     "submissionId": "2098294225",
     "timestamp": "1786124757",
     "path": "Easy/0066_Plus_One.java"
+  },
+  {
+    "problemId": "15",
+    "problemTitle": "3Sum",
+    "problemSlug": "3sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "874 ms",
+    "memory": "59.9 MB",
+    "submissionId": "2098712972",
+    "timestamp": "1786169242",
+    "path": "Medium/0015_3Sum.java"
   }
 ]
