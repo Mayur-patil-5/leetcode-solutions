@@ -284,5 +284,18 @@
     "submissionId": "2098712972",
     "timestamp": "1786169242",
     "path": "Medium/0015_3Sum.java"
+  },
+  {
+    "problemId": "179",
+    "problemTitle": "Largest Number",
+    "problemSlug": "largest-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "44.6 MB",
+    "submissionId": "2100216115",
+    "timestamp": "1786271241",
+    "path": "Medium/0179_Largest_Number.java"
   }
 ]
