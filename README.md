@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 22
+Total Solved: 23
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 22
 - 3Sum ([Java](Medium/0015_3Sum.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
+- Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 
 ## Hard
@@ -39,7 +40,7 @@ Total Solved: 22
 | Difficulty | Count |
 |------------|--------|
 | Easy | 17 |
-| Medium | 5 |
+| Medium | 6 |
 | Hard | 0 |
 
 ---
