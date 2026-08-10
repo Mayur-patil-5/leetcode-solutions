@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 23
+Total Solved: 24
 
 ## Easy
 
@@ -15,6 +15,7 @@ Total Solved: 23
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
+- Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
@@ -39,7 +40,7 @@ Total Solved: 23
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 17 |
+| Easy | 18 |
 | Medium | 6 |
 | Hard | 0 |
 
