@@ -297,5 +297,18 @@
     "submissionId": "2100216115",
     "timestamp": "1786271241",
     "path": "Medium/0179_Largest_Number.java"
+  },
+  {
+    "problemId": "1013",
+    "problemTitle": "Fibonacci Number",
+    "problemSlug": "fibonacci-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2101885550",
+    "timestamp": "1786382677",
+    "path": "Easy/1013_Fibonacci_Number.java"
   }
 ]
