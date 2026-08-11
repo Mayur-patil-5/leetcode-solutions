@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 27
+Total Solved: 28
 
 ## Easy
 
@@ -23,6 +23,7 @@ Total Solved: 27
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
+- Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
 
 ## Medium
@@ -43,7 +44,7 @@ Total Solved: 27
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 20 |
+| Easy | 21 |
 | Medium | 7 |
 | Hard | 0 |
 
