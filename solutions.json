@@ -336,5 +336,18 @@
     "submissionId": "2103024795",
     "timestamp": "1786461581",
     "path": "Medium/0055_Jump_Game.java"
+  },
+  {
+    "problemId": "2748",
+    "problemTitle": "Calculate Delayed Arrival Time",
+    "problemSlug": "calculate-delayed-arrival-time",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2103359071",
+    "timestamp": "1786475329",
+    "path": "Easy/2748_Calculate_Delayed_Arrival_Time.java"
   }
 ]
