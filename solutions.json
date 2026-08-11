@@ -349,5 +349,18 @@
     "submissionId": "2103359071",
     "timestamp": "1786475329",
     "path": "Easy/2748_Calculate_Delayed_Arrival_Time.java"
+  },
+  {
+    "problemId": "4012",
+    "problemTitle": "Earliest Time to Finish One Task",
+    "problemSlug": "earliest-time-to-finish-one-task",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "47.1 MB",
+    "submissionId": "2103363832",
+    "timestamp": "1786475638",
+    "path": "Easy/4012_Earliest_Time_to_Finish_One_Task.java"
   }
 ]
