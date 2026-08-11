@@ -323,5 +323,18 @@
     "submissionId": "2102991331",
     "timestamp": "1786460064",
     "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java"
+  },
+  {
+    "problemId": "55",
+    "problemTitle": "Jump Game",
+    "problemSlug": "jump-game",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "47.5 MB",
+    "submissionId": "2103024795",
+    "timestamp": "1786461581",
+    "path": "Medium/0055_Jump_Game.java"
   }
 ]
