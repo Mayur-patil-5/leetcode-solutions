@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 25
 
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
 - 3Sum ([Java](Medium/0015_3Sum.java))
+- Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
@@ -42,7 +43,7 @@ Total Solved: 25
 | Difficulty | Count |
 |------------|--------|
 | Easy | 19 |
-| Medium | 6 |
+| Medium | 7 |
 | Hard | 0 |
 
 ---
