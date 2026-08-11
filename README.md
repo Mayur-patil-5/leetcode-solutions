@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 24
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
+- Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -40,7 +41,7 @@ Total Solved: 24
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 18 |
+| Easy | 19 |
 | Medium | 6 |
 | Hard | 0 |
 
