@@ -310,5 +310,18 @@
     "submissionId": "2101885550",
     "timestamp": "1786382677",
     "path": "Easy/1013_Fibonacci_Number.java"
+  },
+  {
+    "problemId": "3236",
+    "problemTitle": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "problemSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.9 MB",
+    "submissionId": "2102991331",
+    "timestamp": "1786460064",
+    "path": "Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java"
   }
 ]
