@@ -362,5 +362,18 @@
     "submissionId": "2103363832",
     "timestamp": "1786475638",
     "path": "Easy/4012_Earliest_Time_to_Finish_One_Task.java"
+  },
+  {
+    "problemId": "1560",
+    "problemTitle": "Number of Students Doing Homework at a Given Time",
+    "problemSlug": "number-of-students-doing-homework-at-a-given-time",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.4 MB",
+    "submissionId": "2104629799",
+    "timestamp": "1786559145",
+    "path": "Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java"
   }
 ]
