@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 28
+Total Solved: 29
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 28
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
+- Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
@@ -44,7 +45,7 @@ Total Solved: 28
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 21 |
+| Easy | 22 |
 | Medium | 7 |
 | Hard | 0 |
 
