@@ -375,5 +375,18 @@
     "submissionId": "2104629799",
     "timestamp": "1786559145",
     "path": "Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java"
+  },
+  {
+    "problemId": "139",
+    "problemTitle": "Word Break",
+    "problemSlug": "word-break",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "10 ms",
+    "memory": "46.5 MB",
+    "submissionId": "2105837963",
+    "timestamp": "1786645342",
+    "path": "Medium/0139_Word_Break.java"
   }
 ]
