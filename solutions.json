@@ -401,5 +401,18 @@
     "submissionId": "2106673125",
     "timestamp": "1786716667",
     "path": "Easy/0169_Majority_Element.java"
+  },
+  {
+    "problemId": "3227",
+    "problemTitle": "Find Missing and Repeated Values",
+    "problemSlug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2106685886",
+    "timestamp": "1786717440",
+    "path": "Easy/3227_Find_Missing_and_Repeated_Values.java"
   }
 ]
