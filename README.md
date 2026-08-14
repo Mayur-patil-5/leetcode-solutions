@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 31
+Total Solved: 32
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 31
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
+- Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
@@ -47,7 +48,7 @@ Total Solved: 31
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 23 |
+| Easy | 24 |
 | Medium | 8 |
 | Hard | 0 |
 
