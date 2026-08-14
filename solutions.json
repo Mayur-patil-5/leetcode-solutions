@@ -414,5 +414,18 @@
     "submissionId": "2106685886",
     "timestamp": "1786717440",
     "path": "Easy/3227_Find_Missing_and_Repeated_Values.java"
+  },
+  {
+    "problemId": "3349",
+    "problemTitle": "Maximum Length Substring With Two Occurrences",
+    "problemSlug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "45.3 MB",
+    "submissionId": "2106699237",
+    "timestamp": "1786718262",
+    "path": "Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java"
   }
 ]
