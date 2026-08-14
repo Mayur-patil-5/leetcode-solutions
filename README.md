@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 30
+Total Solved: 31
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 30
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
+- Majority Element ([Java](Easy/0169_Majority_Element.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
@@ -46,7 +47,7 @@ Total Solved: 30
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 22 |
+| Easy | 23 |
 | Medium | 8 |
 | Hard | 0 |
 
