@@ -388,5 +388,18 @@
     "submissionId": "2105837963",
     "timestamp": "1786645342",
     "path": "Medium/0139_Word_Break.java"
+  },
+  {
+    "problemId": "169",
+    "problemTitle": "Majority Element",
+    "problemSlug": "majority-element",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "55.8 MB",
+    "submissionId": "2106673125",
+    "timestamp": "1786716667",
+    "path": "Easy/0169_Majority_Element.java"
   }
 ]
