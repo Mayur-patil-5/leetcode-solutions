@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 34
+Total Solved: 35
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 34
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
+- Binary Tree Inorder Traversal ([Java](Easy/0094_Binary_Tree_Inorder_Traversal.java))
 - Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
 - Majority Element ([Java](Easy/0169_Majority_Element.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
@@ -50,7 +51,7 @@ Total Solved: 34
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 26 |
+| Easy | 27 |
 | Medium | 8 |
 | Hard | 0 |
 
