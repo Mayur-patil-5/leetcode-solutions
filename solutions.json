@@ -440,5 +440,18 @@
     "submissionId": "2107404358",
     "timestamp": "1786781417",
     "path": "Easy/0144_Binary_Tree_Preorder_Traversal.java"
+  },
+  {
+    "problemId": "94",
+    "problemTitle": "Binary Tree Inorder Traversal",
+    "problemSlug": "binary-tree-inorder-traversal",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.2 MB",
+    "submissionId": "2107746404",
+    "timestamp": "1786803667",
+    "path": "Easy/0094_Binary_Tree_Inorder_Traversal.java"
   }
 ]
