@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 35
+Total Solved: 36
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 35
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
 - Binary Tree Inorder Traversal ([Java](Easy/0094_Binary_Tree_Inorder_Traversal.java))
 - Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
+- Binary Tree Postorder Traversal ([Java](Easy/0145_Binary_Tree_Postorder_Traversal.java))
 - Majority Element ([Java](Easy/0169_Majority_Element.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
@@ -51,7 +52,7 @@ Total Solved: 35
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 27 |
+| Easy | 28 |
 | Medium | 8 |
 | Hard | 0 |
 
