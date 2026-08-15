@@ -427,5 +427,18 @@
     "submissionId": "2106699237",
     "timestamp": "1786718262",
     "path": "Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java"
+  },
+  {
+    "problemId": "144",
+    "problemTitle": "Binary Tree Preorder Traversal",
+    "problemSlug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43 MB",
+    "submissionId": "2107404358",
+    "timestamp": "1786781417",
+    "path": "Easy/0144_Binary_Tree_Preorder_Traversal.java"
   }
 ]
