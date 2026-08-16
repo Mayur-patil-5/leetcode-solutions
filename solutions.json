@@ -466,5 +466,18 @@
     "submissionId": "2107848932",
     "timestamp": "1786806395",
     "path": "Easy/0145_Binary_Tree_Postorder_Traversal.java"
+  },
+  {
+    "problemId": "2269",
+    "problemTitle": "Count Elements With Strictly Smaller and Greater Elements ",
+    "problemSlug": "count-elements-with-strictly-smaller-and-greater-elements",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.5 MB",
+    "submissionId": "2108627622",
+    "timestamp": "1786861461",
+    "path": "Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java"
   }
 ]
