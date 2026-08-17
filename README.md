@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 37
+Total Solved: 38
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 37
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
+- Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
@@ -53,7 +54,7 @@ Total Solved: 37
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 8 |
 | Hard | 0 |
 
