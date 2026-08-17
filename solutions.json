@@ -479,5 +479,18 @@
     "submissionId": "2108627622",
     "timestamp": "1786861461",
     "path": "Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java"
+  },
+  {
+    "problemId": "1528",
+    "problemTitle": "Kids With the Greatest Number of Candies",
+    "problemSlug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "44 MB",
+    "submissionId": "2110310224",
+    "timestamp": "1786980886",
+    "path": "Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java"
   }
 ]
