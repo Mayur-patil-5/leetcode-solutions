@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 38
+Total Solved: 39
 
 ## Easy
 
@@ -30,6 +30,7 @@ Total Solved: 38
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
+- Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
@@ -54,7 +55,7 @@ Total Solved: 38
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 30 |
+| Easy | 31 |
 | Medium | 8 |
 | Hard | 0 |
 
