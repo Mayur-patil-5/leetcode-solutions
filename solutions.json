@@ -492,5 +492,18 @@
     "submissionId": "2110310224",
     "timestamp": "1786980886",
     "path": "Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java"
+  },
+  {
+    "problemId": "3705",
+    "problemTitle": "Find the Largest Almost Missing Integer",
+    "problemSlug": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2111902839",
+    "timestamp": "1787079129",
+    "path": "Easy/3705_Find_the_Largest_Almost_Missing_Integer.java"
   }
 ]
