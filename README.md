@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 39
+Total Solved: 40
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 39
 - Word Break ([Java](Medium/0139_Word_Break.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
+- Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 
 ## Hard
@@ -56,7 +57,7 @@ Total Solved: 39
 | Difficulty | Count |
 |------------|--------|
 | Easy | 31 |
-| Medium | 8 |
+| Medium | 9 |
 | Hard | 0 |
 
 ---
