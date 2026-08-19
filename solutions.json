@@ -505,5 +505,18 @@
     "submissionId": "2111902839",
     "timestamp": "1787079129",
     "path": "Easy/3705_Find_the_Largest_Almost_Missing_Integer.java"
+  },
+  {
+    "problemId": "875",
+    "problemTitle": "Longest Mountain in Array",
+    "problemSlug": "longest-mountain-in-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "47.5 MB",
+    "submissionId": "2112614175",
+    "timestamp": "1787138504",
+    "path": "Medium/0875_Longest_Mountain_in_Array.java"
   }
 ]
