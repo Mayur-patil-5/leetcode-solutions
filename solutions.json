@@ -518,5 +518,18 @@
     "submissionId": "2112614175",
     "timestamp": "1787138504",
     "path": "Medium/0875_Longest_Mountain_in_Array.java"
+  },
+  {
+    "problemId": "3347",
+    "problemTitle": "Distribute Elements Into Two Arrays I",
+    "problemSlug": "distribute-elements-into-two-arrays-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2114264947",
+    "timestamp": "1787247479",
+    "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java"
   }
 ]
