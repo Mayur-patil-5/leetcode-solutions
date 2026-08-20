@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 40
+Total Solved: 41
 
 ## Easy
 
@@ -28,6 +28,7 @@ Total Solved: 40
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
+- Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
@@ -56,7 +57,7 @@ Total Solved: 40
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 31 |
+| Easy | 32 |
 | Medium | 9 |
 | Hard | 0 |
 
