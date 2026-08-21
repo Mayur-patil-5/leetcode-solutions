@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 42
+Total Solved: 43
 
 ## Easy
 
@@ -46,6 +46,7 @@ Total Solved: 42
 - Word Break ([Java](Medium/0139_Word_Break.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
+- Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
@@ -59,7 +60,7 @@ Total Solved: 42
 | Difficulty | Count |
 |------------|--------|
 | Easy | 32 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 0 |
 
 ---
