@@ -544,5 +544,18 @@
     "submissionId": "2115370157",
     "timestamp": "1787334810",
     "path": "Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java"
+  },
+  {
+    "problemId": "215",
+    "problemTitle": "Kth Largest Element in an Array",
+    "problemSlug": "kth-largest-element-in-an-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "69 ms",
+    "memory": "74.5 MB",
+    "submissionId": "2115386334",
+    "timestamp": "1787335566",
+    "path": "Medium/0215_Kth_Largest_Element_in_an_Array.java"
   }
 ]
