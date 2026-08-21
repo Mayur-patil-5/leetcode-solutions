@@ -531,5 +531,18 @@
     "submissionId": "2114264947",
     "timestamp": "1787247479",
     "path": "Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java"
+  },
+  {
+    "problemId": "2473",
+    "problemTitle": "Max Sum of a Pair With Equal Sum of Digits",
+    "problemSlug": "max-sum-of-a-pair-with-equal-sum-of-digits",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "20 ms",
+    "memory": "87.3 MB",
+    "submissionId": "2115370157",
+    "timestamp": "1787334810",
+    "path": "Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java"
   }
 ]
