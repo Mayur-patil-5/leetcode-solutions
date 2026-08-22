@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 43
+Total Solved: 44
 
 ## Easy
 
@@ -33,6 +33,7 @@ Total Solved: 43
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
+- Check Divisibility by Digit Sum and Product ([Java](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
@@ -59,7 +60,7 @@ Total Solved: 43
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 32 |
+| Easy | 33 |
 | Medium | 11 |
 | Hard | 0 |
 
