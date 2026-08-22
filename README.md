@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 44
+Total Solved: 45
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 44
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
+- Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
@@ -60,7 +61,7 @@ Total Solved: 44
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 33 |
+| Easy | 34 |
 | Medium | 11 |
 | Hard | 0 |
 
