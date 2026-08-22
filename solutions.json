@@ -570,5 +570,18 @@
     "submissionId": "2115868489",
     "timestamp": "1787384614",
     "path": "Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java"
+  },
+  {
+    "problemId": "28",
+    "problemTitle": "Find the Index of the First Occurrence in a String",
+    "problemSlug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43.2 MB",
+    "submissionId": "2116149572",
+    "timestamp": "1787403746",
+    "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
   }
 ]
