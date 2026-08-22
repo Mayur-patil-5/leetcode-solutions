@@ -557,5 +557,18 @@
     "submissionId": "2115386334",
     "timestamp": "1787335566",
     "path": "Medium/0215_Kth_Largest_Element_in_an_Array.java"
+  },
+  {
+    "problemId": "3918",
+    "problemTitle": "Check Divisibility by Digit Sum and Product",
+    "problemSlug": "check-divisibility-by-digit-sum-and-product",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2115868489",
+    "timestamp": "1787384614",
+    "path": "Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java"
   }
 ]
