@@ -583,5 +583,18 @@
     "submissionId": "2116149572",
     "timestamp": "1787403746",
     "path": "Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java"
+  },
+  {
+    "problemId": "2039",
+    "problemTitle": "Sum Game",
+    "problemSlug": "sum-game",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "8 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2117332410",
+    "timestamp": "1787488607",
+    "path": "Medium/2039_Sum_Game.java"
   }
 ]
