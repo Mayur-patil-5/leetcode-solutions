@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 45
+Total Solved: 46
 
 ## Easy
 
@@ -51,6 +51,7 @@ Total Solved: 45
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
+- Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 
 ## Hard
@@ -62,7 +63,7 @@ Total Solved: 45
 | Difficulty | Count |
 |------------|--------|
 | Easy | 34 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 0 |
 
 ---
