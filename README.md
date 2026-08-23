@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 46
+Total Solved: 47
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 46
 - Majority Element ([Java](Easy/0169_Majority_Element.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
+- First Bad Version ([Java](Easy/0278_First_Bad_Version.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
@@ -62,7 +63,7 @@ Total Solved: 46
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 34 |
+| Easy | 35 |
 | Medium | 12 |
 | Hard | 0 |
 
