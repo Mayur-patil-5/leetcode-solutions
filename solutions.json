@@ -596,5 +596,18 @@
     "submissionId": "2117332410",
     "timestamp": "1787488607",
     "path": "Medium/2039_Sum_Game.java"
+  },
+  {
+    "problemId": "278",
+    "problemTitle": "First Bad Version",
+    "problemSlug": "first-bad-version",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "13 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2117663514",
+    "timestamp": "1787507264",
+    "path": "Easy/0278_First_Bad_Version.java"
   }
 ]
