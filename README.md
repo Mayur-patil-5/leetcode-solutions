@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 48
+Total Solved: 49
 
 ## Easy
 
@@ -47,6 +47,7 @@ Total Solved: 48
 - 3Sum ([Java](Medium/0015_3Sum.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
+- Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
 - Word Break ([Java](Medium/0139_Word_Break.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
@@ -65,7 +66,7 @@ Total Solved: 48
 | Difficulty | Count |
 |------------|--------|
 | Easy | 36 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 0 |
 
 ---
