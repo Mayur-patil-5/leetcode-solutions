@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 47
+Total Solved: 48
 
 ## Easy
 
@@ -12,6 +12,7 @@ Total Solved: 47
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
+- Climbing Stairs ([Java](Easy/0070_Climbing_Stairs.java))
 - Binary Tree Inorder Traversal ([Java](Easy/0094_Binary_Tree_Inorder_Traversal.java))
 - Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
 - Binary Tree Postorder Traversal ([Java](Easy/0145_Binary_Tree_Postorder_Traversal.java))
@@ -63,7 +64,7 @@ Total Solved: 47
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 35 |
+| Easy | 36 |
 | Medium | 12 |
 | Hard | 0 |
 
