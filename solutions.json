@@ -622,5 +622,18 @@
     "submissionId": "2118782755",
     "timestamp": "1787593255",
     "path": "Easy/0070_Climbing_Stairs.java"
+  },
+  {
+    "problemId": "80",
+    "problemTitle": "Remove Duplicates from Sorted Array II",
+    "problemSlug": "remove-duplicates-from-sorted-array-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "48.9 MB",
+    "submissionId": "2118830271",
+    "timestamp": "1787595300",
+    "path": "Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java"
   }
 ]
