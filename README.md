@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 50
+Total Solved: 51
 
 ## Easy
 
@@ -17,6 +17,7 @@ Total Solved: 50
 - Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
 - Binary Tree Postorder Traversal ([Java](Easy/0145_Binary_Tree_Postorder_Traversal.java))
 - Majority Element ([Java](Easy/0169_Majority_Element.java))
+- Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Bad Version ([Java](Easy/0278_First_Bad_Version.java))
@@ -66,7 +67,7 @@ Total Solved: 50
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 37 |
+| Easy | 38 |
 | Medium | 13 |
 | Hard | 0 |
 
