@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 49
+Total Solved: 50
 
 ## Easy
 
@@ -39,6 +39,7 @@ Total Solved: 49
 - Check Divisibility by Digit Sum and Product ([Java](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
+- Smallest Missing Multiple of K ([Java](Easy/4080_Smallest_Missing_Multiple_of_K.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
 
 ## Medium
@@ -65,7 +66,7 @@ Total Solved: 49
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 36 |
+| Easy | 37 |
 | Medium | 13 |
 | Hard | 0 |
 
