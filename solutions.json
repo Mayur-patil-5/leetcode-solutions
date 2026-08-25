@@ -648,5 +648,18 @@
     "submissionId": "2120027320",
     "timestamp": "1787681366",
     "path": "Easy/4080_Smallest_Missing_Multiple_of_K.java"
+  },
+  {
+    "problemId": "202",
+    "problemTitle": "Happy Number",
+    "problemSlug": "happy-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2120062909",
+    "timestamp": "1787683031",
+    "path": "Easy/0202_Happy_Number.java"
   }
 ]
