@@ -661,5 +661,18 @@
     "submissionId": "2120062909",
     "timestamp": "1787683031",
     "path": "Easy/0202_Happy_Number.java"
+  },
+  {
+    "problemId": "560",
+    "problemTitle": "Subarray Sum Equals K",
+    "problemSlug": "subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1552 ms",
+    "memory": "48.5 MB",
+    "submissionId": "2121101859",
+    "timestamp": "1787765305",
+    "path": "Medium/0560_Subarray_Sum_Equals_K.java"
   }
 ]
