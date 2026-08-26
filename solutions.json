@@ -674,5 +674,18 @@
     "submissionId": "2121101859",
     "timestamp": "1787765305",
     "path": "Medium/0560_Subarray_Sum_Equals_K.java"
+  },
+  {
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "37 ms",
+    "memory": "79.2 MB",
+    "submissionId": "2121113829",
+    "timestamp": "1787765847",
+    "path": "Medium/0287_Find_the_Duplicate_Number.java"
   }
 ]
