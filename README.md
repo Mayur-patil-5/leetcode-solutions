@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 51
+Total Solved: 52
 
 ## Easy
 
@@ -54,6 +54,7 @@ Total Solved: 51
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
+- Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
@@ -68,7 +69,7 @@ Total Solved: 51
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 13 |
+| Medium | 14 |
 | Hard | 0 |
 
 ---
