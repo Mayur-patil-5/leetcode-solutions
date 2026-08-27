@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 53
+Total Solved: 54
 
 ## Easy
 
@@ -55,6 +55,7 @@ Total Solved: 53
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
+- Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
@@ -70,7 +71,7 @@ Total Solved: 53
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 15 |
+| Medium | 16 |
 | Hard | 0 |
 
 ---
