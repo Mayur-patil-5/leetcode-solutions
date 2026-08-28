@@ -700,5 +700,18 @@
     "submissionId": "2122289975",
     "timestamp": "1787857179",
     "path": "Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java"
+  },
+  {
+    "problemId": "319",
+    "problemTitle": "Bulb Switcher",
+    "problemSlug": "bulb-switcher",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2123028059",
+    "timestamp": "1787931964",
+    "path": "Medium/0319_Bulb_Switcher.java"
   }
 ]
