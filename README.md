@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 55
+Total Solved: 56
 
 ## Easy
 
@@ -65,7 +65,7 @@ Total Solved: 55
 
 ## Hard
 
-*No hard problems solved yet.*
+- First Missing Positive ([Java](Hard/0041_First_Missing_Positive.java))
 
 ## Statistics
 
@@ -73,7 +73,7 @@ Total Solved: 55
 |------------|--------|
 | Easy | 38 |
 | Medium | 17 |
-| Hard | 0 |
+| Hard | 1 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
