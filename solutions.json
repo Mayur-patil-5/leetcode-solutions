@@ -713,5 +713,18 @@
     "submissionId": "2123028059",
     "timestamp": "1787931964",
     "path": "Medium/0319_Bulb_Switcher.java"
+  },
+  {
+    "problemId": "41",
+    "problemTitle": "First Missing Positive",
+    "problemSlug": "first-missing-positive",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "71.1 MB",
+    "submissionId": "2123874476",
+    "timestamp": "1788010928",
+    "path": "Hard/0041_First_Missing_Positive.java"
   }
 ]
