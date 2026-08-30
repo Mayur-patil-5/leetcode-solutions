@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 57
+Total Solved: 58
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 57
 
 ## Medium
 
+- Longest Substring Without Repeating Characters ([Java](Medium/0003_Longest_Substring_Without_Repeating_Characters.java))
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
 - 3Sum ([Java](Medium/0015_3Sum.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
@@ -73,7 +74,7 @@ Total Solved: 57
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 18 |
+| Medium | 19 |
 | Hard | 1 |
 
 ---
