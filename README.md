@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 56
+Total Solved: 57
 
 ## Easy
 
@@ -61,6 +61,7 @@ Total Solved: 56
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
+- Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 
 ## Hard
@@ -72,7 +73,7 @@ Total Solved: 56
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 17 |
+| Medium | 18 |
 | Hard | 1 |
 
 ---
