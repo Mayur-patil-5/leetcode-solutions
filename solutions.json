@@ -726,5 +726,18 @@
     "submissionId": "2123876807",
     "timestamp": "1788011096",
     "path": "Hard/0041_First_Missing_Positive.java"
+  },
+  {
+    "problemId": "2212",
+    "problemTitle": "Removing Minimum and Maximum From Array",
+    "problemSlug": "removing-minimum-and-maximum-from-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "86.8 MB",
+    "submissionId": "2125087973",
+    "timestamp": "1788097662",
+    "path": "Medium/2212_Removing_Minimum_and_Maximum_From_Array.java"
   }
 ]
