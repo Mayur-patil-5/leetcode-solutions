@@ -752,5 +752,18 @@
     "submissionId": "2125150606",
     "timestamp": "1788101541",
     "path": "Medium/0003_Longest_Substring_Without_Repeating_Characters.java"
+  },
+  {
+    "problemId": "164",
+    "problemTitle": "Maximum Gap",
+    "problemSlug": "maximum-gap",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "45 ms",
+    "memory": "91.1 MB",
+    "submissionId": "2125360246",
+    "timestamp": "1788113374",
+    "path": "Medium/0164_Maximum_Gap.java"
   }
 ]
