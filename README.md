@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 59
+Total Solved: 60
 
 ## Easy
 
@@ -54,6 +54,7 @@ Total Solved: 59
 - Word Break ([Java](Medium/0139_Word_Break.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
+- Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
@@ -75,7 +76,7 @@ Total Solved: 59
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 20 |
+| Medium | 21 |
 | Hard | 1 |
 
 ---
