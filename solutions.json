@@ -765,5 +765,18 @@
     "submissionId": "2125360246",
     "timestamp": "1788113374",
     "path": "Medium/0164_Maximum_Gap.java"
+  },
+  {
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "314 ms",
+    "memory": "0B",
+    "submissionId": "2126432916",
+    "timestamp": "1788198301",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
