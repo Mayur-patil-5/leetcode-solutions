@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 61
+Total Solved: 62
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 61
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
+- Count Primes ([Java](Medium/0204_Count_Primes.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
@@ -77,7 +78,7 @@ Total Solved: 61
 | Difficulty | Count |
 |------------|--------|
 | Easy | 38 |
-| Medium | 21 |
+| Medium | 22 |
 | Hard | 2 |
 
 ---
