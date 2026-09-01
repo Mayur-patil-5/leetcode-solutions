@@ -767,6 +767,19 @@
     "path": "Medium/0164_Maximum_Gap.java"
   },
   {
+    "problemId": "312",
+    "problemTitle": "Burst Balloons",
+    "problemSlug": "burst-balloons",
+    "difficulty": "Hard",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "46 ms",
+    "memory": "44.6 MB",
+    "submissionId": "2127133039",
+    "timestamp": "1788260626",
+    "path": "Hard/0312_Burst_Balloons.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -780,16 +793,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "312",
-    "problemTitle": "Burst Balloons",
-    "problemSlug": "burst-balloons",
-    "difficulty": "Hard",
+    "problemId": "204",
+    "problemTitle": "Count Primes",
+    "problemSlug": "count-primes",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "46 ms",
-    "memory": "44.6 MB",
-    "submissionId": "2127133039",
-    "timestamp": "1788260626",
-    "path": "Hard/0312_Burst_Balloons.java"
+    "runtime": "792 ms",
+    "memory": "79.8 MB",
+    "submissionId": "2127591319",
+    "timestamp": "1788285382",
+    "path": "Medium/0204_Count_Primes.java"
   }
 ]
