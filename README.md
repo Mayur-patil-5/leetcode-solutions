@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 60
+Total Solved: 61
 
 ## Easy
 
@@ -70,6 +70,7 @@ Total Solved: 60
 ## Hard
 
 - First Missing Positive ([Java](Hard/0041_First_Missing_Positive.java))
+- Burst Balloons ([Java](Hard/0312_Burst_Balloons.java))
 
 ## Statistics
 
@@ -77,7 +78,7 @@ Total Solved: 60
 |------------|--------|
 | Easy | 38 |
 | Medium | 21 |
-| Hard | 1 |
+| Hard | 2 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
