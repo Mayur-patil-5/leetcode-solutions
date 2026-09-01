@@ -799,10 +799,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "792 ms",
+    "runtime": "797 ms",
     "memory": "79.8 MB",
-    "submissionId": "2127591319",
-    "timestamp": "1788285382",
+    "submissionId": "2127597684",
+    "timestamp": "1788285639",
     "path": "Medium/0204_Count_Primes.java"
   }
 ]
