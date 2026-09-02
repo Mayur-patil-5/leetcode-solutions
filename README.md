@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 62
+Total Solved: 63
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 62
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
+- Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
@@ -77,7 +78,7 @@ Total Solved: 62
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 38 |
+| Easy | 39 |
 | Medium | 22 |
 | Hard | 2 |
 
