@@ -4,13 +4,15 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 1 ms
- * Memory: 45 MB
+ * Memory: 45.1 MB
  * Synced From: LeetCode
  * Date: 2026-09-02
  */
 
 class Solution {
     public boolean uniformArray(int[] nums1) {
+
+        // first answer becoz it giving the output true always. so return true wrna via conditions..
 
         boolean hasEven = false;
         boolean hasOdd = false;
