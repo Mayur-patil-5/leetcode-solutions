@@ -780,6 +780,19 @@
     "path": "Hard/0312_Burst_Balloons.java"
   },
   {
+    "problemId": "204",
+    "problemTitle": "Count Primes",
+    "problemSlug": "count-primes",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "797 ms",
+    "memory": "79.8 MB",
+    "submissionId": "2127597684",
+    "timestamp": "1788285639",
+    "path": "Medium/0204_Count_Primes.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -793,16 +806,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "204",
-    "problemTitle": "Count Primes",
-    "problemSlug": "count-primes",
-    "difficulty": "Medium",
+    "problemId": "1580",
+    "problemTitle": "Shuffle the Array",
+    "problemSlug": "shuffle-the-array",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "797 ms",
-    "memory": "79.8 MB",
-    "submissionId": "2127597684",
-    "timestamp": "1788285639",
-    "path": "Medium/0204_Count_Primes.java"
+    "runtime": "3 ms",
+    "memory": "46.4 MB",
+    "submissionId": "2128563749",
+    "timestamp": "1788360598",
+    "path": "Easy/1580_Shuffle_the_Array.java"
   }
 ]
