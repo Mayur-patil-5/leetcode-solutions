@@ -793,6 +793,19 @@
     "path": "Medium/0204_Count_Primes.java"
   },
   {
+    "problemId": "1580",
+    "problemTitle": "Shuffle the Array",
+    "problemSlug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "46.4 MB",
+    "submissionId": "2128563749",
+    "timestamp": "1788360598",
+    "path": "Easy/1580_Shuffle_the_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -806,16 +819,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1580",
-    "problemTitle": "Shuffle the Array",
-    "problemSlug": "shuffle-the-array",
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "46.4 MB",
-    "submissionId": "2128563749",
-    "timestamp": "1788360598",
-    "path": "Easy/1580_Shuffle_the_Array.java"
+    "runtime": "1 ms",
+    "memory": "45 MB",
+    "submissionId": "2128585575",
+    "timestamp": "1788361756",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.java"
   }
 ]
