@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 63
+Total Solved: 64
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 63
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
 - Smallest Missing Multiple of K ([Java](Easy/4080_Smallest_Missing_Multiple_of_K.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
+- Construct Uniform Parity Array I ([Java](Easy/4256_Construct_Uniform_Parity_Array_I.java))
 
 ## Medium
 
@@ -78,7 +79,7 @@ Total Solved: 63
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 39 |
+| Easy | 40 |
 | Medium | 22 |
 | Hard | 2 |
 
