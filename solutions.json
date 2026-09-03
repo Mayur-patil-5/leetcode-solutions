@@ -806,6 +806,19 @@
     "path": "Easy/1580_Shuffle_the_Array.java"
   },
   {
+    "problemId": "4256",
+    "problemTitle": "Construct Uniform Parity Array I",
+    "problemSlug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "45.1 MB",
+    "submissionId": "2128586796",
+    "timestamp": "1788361825",
+    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -819,16 +832,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4256",
-    "problemTitle": "Construct Uniform Parity Array I",
-    "problemSlug": "construct-uniform-parity-array-i",
-    "difficulty": "Easy",
+    "problemId": "4258",
+    "problemTitle": "Construct Uniform Parity Array II",
+    "problemSlug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "45.1 MB",
-    "submissionId": "2128586796",
-    "timestamp": "1788361825",
-    "path": "Easy/4256_Construct_Uniform_Parity_Array_I.java"
+    "runtime": "9 ms",
+    "memory": "121.8 MB",
+    "submissionId": "2129963587",
+    "timestamp": "1788459003",
+    "path": "Medium/4258_Construct_Uniform_Parity_Array_II.java"
   }
 ]
