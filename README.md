@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 65
+Total Solved: 66
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 65
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
+- Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
@@ -80,7 +81,7 @@ Total Solved: 65
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 40 |
+| Easy | 41 |
 | Medium | 23 |
 | Hard | 2 |
 
