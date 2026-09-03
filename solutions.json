@@ -819,6 +819,19 @@
     "path": "Easy/4256_Construct_Uniform_Parity_Array_I.java"
   },
   {
+    "problemId": "4258",
+    "problemTitle": "Construct Uniform Parity Array II",
+    "problemSlug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "9 ms",
+    "memory": "121.8 MB",
+    "submissionId": "2129963587",
+    "timestamp": "1788459003",
+    "path": "Medium/4258_Construct_Uniform_Parity_Array_II.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -832,16 +845,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4258",
-    "problemTitle": "Construct Uniform Parity Array II",
-    "problemSlug": "construct-uniform-parity-array-ii",
-    "difficulty": "Medium",
+    "problemId": "1019",
+    "problemTitle": "Squares of a Sorted Array",
+    "problemSlug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "9 ms",
-    "memory": "121.8 MB",
-    "submissionId": "2129963587",
-    "timestamp": "1788459003",
-    "path": "Medium/4258_Construct_Uniform_Parity_Array_II.java"
+    "runtime": "10 ms",
+    "memory": "49 MB",
+    "submissionId": "2129999497",
+    "timestamp": "1788460781",
+    "path": "Easy/1019_Squares_of_a_Sorted_Array.java"
   }
 ]
