@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 66
+Total Solved: 67
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 66
 - Smallest Missing Multiple of K ([Java](Easy/4080_Smallest_Missing_Multiple_of_K.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
 - Construct Uniform Parity Array I ([Java](Easy/4256_Construct_Uniform_Parity_Array_I.java))
+- Smallest Stable Index I ([Java](Easy/4284_Smallest_Stable_Index_I.java))
 
 ## Medium
 
@@ -81,7 +82,7 @@ Total Solved: 66
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 41 |
+| Easy | 42 |
 | Medium | 23 |
 | Hard | 2 |
 
