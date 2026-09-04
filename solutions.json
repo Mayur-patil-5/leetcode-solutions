@@ -832,6 +832,19 @@
     "path": "Medium/4258_Construct_Uniform_Parity_Array_II.java"
   },
   {
+    "problemId": "1019",
+    "problemTitle": "Squares of a Sorted Array",
+    "problemSlug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "10 ms",
+    "memory": "48.9 MB",
+    "submissionId": "2129999720",
+    "timestamp": "1788460795",
+    "path": "Easy/1019_Squares_of_a_Sorted_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -845,16 +858,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1019",
-    "problemTitle": "Squares of a Sorted Array",
-    "problemSlug": "squares-of-a-sorted-array",
+    "problemId": "4284",
+    "problemTitle": "Smallest Stable Index I",
+    "problemSlug": "smallest-stable-index-i",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "10 ms",
-    "memory": "48.9 MB",
-    "submissionId": "2129999720",
-    "timestamp": "1788460795",
-    "path": "Easy/1019_Squares_of_a_Sorted_Array.java"
+    "runtime": "1 ms",
+    "memory": "46.3 MB",
+    "submissionId": "2130834565",
+    "timestamp": "1788534853",
+    "path": "Easy/4284_Smallest_Stable_Index_I.java"
   }
 ]
