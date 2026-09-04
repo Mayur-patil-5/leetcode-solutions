@@ -845,6 +845,19 @@
     "path": "Easy/1019_Squares_of_a_Sorted_Array.java"
   },
   {
+    "problemId": "4284",
+    "problemTitle": "Smallest Stable Index I",
+    "problemSlug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.3 MB",
+    "submissionId": "2130834565",
+    "timestamp": "1788534853",
+    "path": "Easy/4284_Smallest_Stable_Index_I.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -858,16 +871,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4284",
-    "problemTitle": "Smallest Stable Index I",
-    "problemSlug": "smallest-stable-index-i",
-    "difficulty": "Easy",
+    "problemId": "2362",
+    "problemTitle": "Minimum Rounds to Complete All Tasks",
+    "problemSlug": "minimum-rounds-to-complete-all-tasks",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "46.3 MB",
-    "submissionId": "2130834565",
-    "timestamp": "1788534853",
-    "path": "Easy/4284_Smallest_Stable_Index_I.java"
+    "runtime": "18 ms",
+    "memory": "106.2 MB",
+    "submissionId": "2130866615",
+    "timestamp": "1788536983",
+    "path": "Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java"
   }
 ]
