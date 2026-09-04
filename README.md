@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 67
+Total Solved: 68
 
 ## Easy
 
@@ -70,6 +70,7 @@ Total Solved: 67
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
+- Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 - Construct Uniform Parity Array II ([Java](Medium/4258_Construct_Uniform_Parity_Array_II.java))
 
@@ -83,7 +84,7 @@ Total Solved: 67
 | Difficulty | Count |
 |------------|--------|
 | Easy | 42 |
-| Medium | 23 |
+| Medium | 24 |
 | Hard | 2 |
 
 ---
