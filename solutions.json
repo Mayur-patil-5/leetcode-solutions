@@ -858,6 +858,19 @@
     "path": "Easy/4284_Smallest_Stable_Index_I.java"
   },
   {
+    "problemId": "2362",
+    "problemTitle": "Minimum Rounds to Complete All Tasks",
+    "problemSlug": "minimum-rounds-to-complete-all-tasks",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "18 ms",
+    "memory": "105.6 MB",
+    "submissionId": "2130867754",
+    "timestamp": "1788537054",
+    "path": "Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -871,16 +884,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2362",
-    "problemTitle": "Minimum Rounds to Complete All Tasks",
-    "problemSlug": "minimum-rounds-to-complete-all-tasks",
+    "problemId": "34",
+    "problemTitle": "Find First and Last Position of Element in Sorted Array",
+    "problemSlug": "find-first-and-last-position-of-element-in-sorted-array",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "18 ms",
-    "memory": "105.6 MB",
-    "submissionId": "2130867754",
-    "timestamp": "1788537054",
-    "path": "Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java"
+    "runtime": "99 ms",
+    "memory": "48.4 MB",
+    "submissionId": "2131273105",
+    "timestamp": "1788581285",
+    "path": "Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java"
   }
 ]
