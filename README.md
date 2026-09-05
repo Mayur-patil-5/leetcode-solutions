@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 68
+Total Solved: 69
 
 ## Easy
 
@@ -52,6 +52,7 @@ Total Solved: 68
 - Longest Substring Without Repeating Characters ([Java](Medium/0003_Longest_Substring_Without_Repeating_Characters.java))
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
 - 3Sum ([Java](Medium/0015_3Sum.java))
+- Find First and Last Position of Element in Sorted Array ([Java](Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
@@ -84,7 +85,7 @@ Total Solved: 68
 | Difficulty | Count |
 |------------|--------|
 | Easy | 42 |
-| Medium | 24 |
+| Medium | 25 |
 | Hard | 2 |
 
 ---
