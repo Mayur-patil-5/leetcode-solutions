@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 69
+Total Solved: 70
 
 ## Easy
 
@@ -74,6 +74,7 @@ Total Solved: 69
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 - Construct Uniform Parity Array II ([Java](Medium/4258_Construct_Uniform_Parity_Array_II.java))
+- Smallest Stable Index II ([Java](Medium/4285_Smallest_Stable_Index_II.java))
 
 ## Hard
 
@@ -85,7 +86,7 @@ Total Solved: 69
 | Difficulty | Count |
 |------------|--------|
 | Easy | 42 |
-| Medium | 25 |
+| Medium | 26 |
 | Hard | 2 |
 
 ---
