@@ -871,6 +871,19 @@
     "path": "Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java"
   },
   {
+    "problemId": "34",
+    "problemTitle": "Find First and Last Position of Element in Sorted Array",
+    "problemSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "99 ms",
+    "memory": "48.4 MB",
+    "submissionId": "2131273105",
+    "timestamp": "1788581285",
+    "path": "Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -884,16 +897,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "34",
-    "problemTitle": "Find First and Last Position of Element in Sorted Array",
-    "problemSlug": "find-first-and-last-position-of-element-in-sorted-array",
+    "problemId": "4285",
+    "problemTitle": "Smallest Stable Index II",
+    "problemSlug": "smallest-stable-index-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "99 ms",
-    "memory": "48.4 MB",
-    "submissionId": "2131273105",
-    "timestamp": "1788581285",
-    "path": "Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java"
+    "runtime": "6 ms",
+    "memory": "126.7 MB",
+    "submissionId": "2131286335",
+    "timestamp": "1788582538",
+    "path": "Medium/4285_Smallest_Stable_Index_II.java"
   }
 ]
