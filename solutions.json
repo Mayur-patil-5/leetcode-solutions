@@ -910,6 +910,19 @@
     "path": "Medium/0151_Reverse_Words_in_a_String.java"
   },
   {
+    "problemId": "742",
+    "problemTitle": "To Lower Case",
+    "problemSlug": "to-lower-case",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2132846081",
+    "timestamp": "1788698806",
+    "path": "Easy/0742_To_Lower_Case.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -923,16 +936,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "742",
-    "problemTitle": "To Lower Case",
-    "problemSlug": "to-lower-case",
+    "problemId": "1005",
+    "problemTitle": "Univalued Binary Tree",
+    "problemSlug": "univalued-binary-tree",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "42.3 MB",
-    "submissionId": "2132846081",
-    "timestamp": "1788698806",
-    "path": "Easy/0742_To_Lower_Case.java"
+    "memory": "43.1 MB",
+    "submissionId": "2132980116",
+    "timestamp": "1788707386",
+    "path": "Easy/1005_Univalued_Binary_Tree.java"
   }
 ]
