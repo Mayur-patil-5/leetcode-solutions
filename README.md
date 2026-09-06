@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 72
+Total Solved: 73
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 72
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - To Lower Case ([Java](Easy/0742_To_Lower_Case.java))
+- Univalued Binary Tree ([Java](Easy/1005_Univalued_Binary_Tree.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
@@ -87,7 +88,7 @@ Total Solved: 72
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 43 |
+| Easy | 44 |
 | Medium | 27 |
 | Hard | 2 |
 
