@@ -897,6 +897,19 @@
     "path": "Medium/4285_Smallest_Stable_Index_II.java"
   },
   {
+    "problemId": "151",
+    "problemTitle": "Reverse Words in a String",
+    "problemSlug": "reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "44 MB",
+    "submissionId": "2132428144",
+    "timestamp": "1788668906",
+    "path": "Medium/0151_Reverse_Words_in_a_String.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -910,16 +923,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "151",
-    "problemTitle": "Reverse Words in a String",
-    "problemSlug": "reverse-words-in-a-string",
-    "difficulty": "Medium",
+    "problemId": "742",
+    "problemTitle": "To Lower Case",
+    "problemSlug": "to-lower-case",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "44 MB",
-    "submissionId": "2132428144",
-    "timestamp": "1788668906",
-    "path": "Medium/0151_Reverse_Words_in_a_String.java"
+    "runtime": "0 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2132846081",
+    "timestamp": "1788698806",
+    "path": "Easy/0742_To_Lower_Case.java"
   }
 ]
