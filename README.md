@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 70
+Total Solved: 71
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 70
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
 - Word Break ([Java](Medium/0139_Word_Break.java))
+- Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
@@ -86,7 +87,7 @@ Total Solved: 70
 | Difficulty | Count |
 |------------|--------|
 | Easy | 42 |
-| Medium | 26 |
+| Medium | 27 |
 | Hard | 2 |
 
 ---
