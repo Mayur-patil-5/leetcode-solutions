@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 73
+Total Solved: 74
 
 ## Easy
 
@@ -58,6 +58,7 @@ Total Solved: 73
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
+- Longest Consecutive Sequence ([Java](Medium/0128_Longest_Consecutive_Sequence.java))
 - Word Break ([Java](Medium/0139_Word_Break.java))
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
@@ -89,7 +90,7 @@ Total Solved: 73
 | Difficulty | Count |
 |------------|--------|
 | Easy | 44 |
-| Medium | 27 |
+| Medium | 28 |
 | Hard | 2 |
 
 ---
