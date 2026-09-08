@@ -936,6 +936,19 @@
     "path": "Easy/1005_Univalued_Binary_Tree.java"
   },
   {
+    "problemId": "128",
+    "problemTitle": "Longest Consecutive Sequence",
+    "problemSlug": "longest-consecutive-sequence",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "21 ms",
+    "memory": "77.3 MB",
+    "submissionId": "2134248301",
+    "timestamp": "1788803643",
+    "path": "Medium/0128_Longest_Consecutive_Sequence.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -949,16 +962,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "128",
-    "problemTitle": "Longest Consecutive Sequence",
-    "problemSlug": "longest-consecutive-sequence",
-    "difficulty": "Medium",
+    "problemId": "4245",
+    "problemTitle": "Count Commas in Range",
+    "problemSlug": "count-commas-in-range",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "21 ms",
-    "memory": "77.3 MB",
-    "submissionId": "2134248301",
-    "timestamp": "1788803643",
-    "path": "Medium/0128_Longest_Consecutive_Sequence.java"
+    "runtime": "1 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2135477783",
+    "timestamp": "1788889968",
+    "path": "Easy/4245_Count_Commas_in_Range.java"
   }
 ]
