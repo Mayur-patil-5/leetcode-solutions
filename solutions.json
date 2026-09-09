@@ -949,6 +949,19 @@
     "path": "Medium/0128_Longest_Consecutive_Sequence.java"
   },
   {
+    "problemId": "4245",
+    "problemTitle": "Count Commas in Range",
+    "problemSlug": "count-commas-in-range",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.5 MB",
+    "submissionId": "2135483941",
+    "timestamp": "1788890228",
+    "path": "Easy/4245_Count_Commas_in_Range.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -962,16 +975,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4245",
-    "problemTitle": "Count Commas in Range",
-    "problemSlug": "count-commas-in-range",
-    "difficulty": "Easy",
+    "problemId": "4248",
+    "problemTitle": "Count Commas in Range II",
+    "problemSlug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "1 ms",
-    "memory": "42.5 MB",
-    "submissionId": "2135483941",
-    "timestamp": "1788890228",
-    "path": "Easy/4245_Count_Commas_in_Range.java"
+    "memory": "42.6 MB",
+    "submissionId": "2136550041",
+    "timestamp": "1788970085",
+    "path": "Medium/4248_Count_Commas_in_Range_II.java"
   }
 ]
