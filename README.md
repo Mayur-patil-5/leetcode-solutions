@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 75
+Total Solved: 76
 
 ## Easy
 
@@ -78,6 +78,7 @@ Total Solved: 75
 - Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
+- Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
 - Construct Uniform Parity Array II ([Java](Medium/4258_Construct_Uniform_Parity_Array_II.java))
 - Smallest Stable Index II ([Java](Medium/4285_Smallest_Stable_Index_II.java))
 
@@ -91,7 +92,7 @@ Total Solved: 75
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 28 |
+| Medium | 29 |
 | Hard | 2 |
 
 ---
