@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 76
+Total Solved: 77
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 76
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
+- Count Nodes Equal to Average of Subtree ([Java](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.java))
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 - Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
@@ -92,7 +93,7 @@ Total Solved: 76
 | Difficulty | Count |
 |------------|--------|
 | Easy | 45 |
-| Medium | 29 |
+| Medium | 30 |
 | Hard | 2 |
 
 ---
