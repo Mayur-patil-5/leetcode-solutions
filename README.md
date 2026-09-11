@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 78
+Total Solved: 79
 
 ## Easy
 
@@ -57,6 +57,7 @@ Total Solved: 78
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
 - 3Sum ([Java](Medium/0015_3Sum.java))
 - Find First and Last Position of Element in Sorted Array ([Java](Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java))
+- Pow(x, n) ([Java](Medium/0050_Powx_n.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
@@ -94,7 +95,7 @@ Total Solved: 78
 | Difficulty | Count |
 |------------|--------|
 | Easy | 46 |
-| Medium | 30 |
+| Medium | 31 |
 | Hard | 2 |
 
 ---
