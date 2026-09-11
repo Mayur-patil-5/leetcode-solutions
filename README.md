@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 77
+Total Solved: 78
 
 ## Easy
 
@@ -40,6 +40,7 @@ Total Solved: 77
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
+- Unique 3-Digit Even Numbers ([Java](Easy/3799_Unique_3-Digit_Even_Numbers.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
 - Check Divisibility by Digit Sum and Product ([Java](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
@@ -92,7 +93,7 @@ Total Solved: 77
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 45 |
+| Easy | 46 |
 | Medium | 30 |
 | Hard | 2 |
 
