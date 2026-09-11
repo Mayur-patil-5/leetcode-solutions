@@ -988,6 +988,19 @@
     "path": "Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.java"
   },
   {
+    "problemId": "3799",
+    "problemTitle": "Unique 3-Digit Even Numbers",
+    "problemSlug": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "46.4 MB",
+    "submissionId": "2138307283",
+    "timestamp": "1789111734",
+    "path": "Easy/3799_Unique_3-Digit_Even_Numbers.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1001,16 +1014,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3799",
-    "problemTitle": "Unique 3-Digit Even Numbers",
-    "problemSlug": "unique-3-digit-even-numbers",
-    "difficulty": "Easy",
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "5 ms",
-    "memory": "46.4 MB",
-    "submissionId": "2138307283",
-    "timestamp": "1789111734",
-    "path": "Easy/3799_Unique_3-Digit_Even_Numbers.java"
+    "runtime": "0 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2138586406",
+    "timestamp": "1789133801",
+    "path": "Medium/0050_Powx_n.java"
   }
 ]
