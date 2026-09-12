@@ -1014,6 +1014,19 @@
     "path": "Medium/0050_Powx_n.java"
   },
   {
+    "problemId": "543",
+    "problemTitle": "Diameter of Binary Tree",
+    "problemSlug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2139114376",
+    "timestamp": "1789187675",
+    "path": "Easy/0543_Diameter_of_Binary_Tree.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1027,16 +1040,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "543",
-    "problemTitle": "Diameter of Binary Tree",
-    "problemSlug": "diameter-of-binary-tree",
-    "difficulty": "Easy",
+    "problemId": "237",
+    "problemTitle": "Delete Node in a Linked List",
+    "problemSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "46.8 MB",
-    "submissionId": "2139114376",
-    "timestamp": "1789187675",
-    "path": "Easy/0543_Diameter_of_Binary_Tree.java"
+    "runtime": "0 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2139664801",
+    "timestamp": "1789225836",
+    "path": "Medium/0237_Delete_Node_in_a_Linked_List.java"
   }
 ]
