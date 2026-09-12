@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 79
+Total Solved: 80
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 79
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Bad Version ([Java](Easy/0278_First_Bad_Version.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
+- Diameter of Binary Tree ([Java](Easy/0543_Diameter_of_Binary_Tree.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - To Lower Case ([Java](Easy/0742_To_Lower_Case.java))
 - Univalued Binary Tree ([Java](Easy/1005_Univalued_Binary_Tree.java))
@@ -94,7 +95,7 @@ Total Solved: 79
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 46 |
+| Easy | 47 |
 | Medium | 31 |
 | Hard | 2 |
 
