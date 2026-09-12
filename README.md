@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 80
+Total Solved: 81
 
 ## Easy
 
@@ -71,6 +71,7 @@ Total Solved: 80
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Count Primes ([Java](Medium/0204_Count_Primes.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
+- Delete Node in a Linked List ([Java](Medium/0237_Delete_Node_in_a_Linked_List.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
@@ -96,7 +97,7 @@ Total Solved: 80
 | Difficulty | Count |
 |------------|--------|
 | Easy | 47 |
-| Medium | 31 |
+| Medium | 32 |
 | Hard | 2 |
 
 ---
