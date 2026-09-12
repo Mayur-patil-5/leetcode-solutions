@@ -1001,6 +1001,19 @@
     "path": "Easy/3799_Unique_3-Digit_Even_Numbers.java"
   },
   {
+    "problemId": "50",
+    "problemTitle": "Pow(x, n)",
+    "problemSlug": "powx-n",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2138586406",
+    "timestamp": "1789133801",
+    "path": "Medium/0050_Powx_n.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1014,16 +1027,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "50",
-    "problemTitle": "Pow(x, n)",
-    "problemSlug": "powx-n",
-    "difficulty": "Medium",
+    "problemId": "543",
+    "problemTitle": "Diameter of Binary Tree",
+    "problemSlug": "diameter-of-binary-tree",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "48.1 MB",
-    "submissionId": "2138586406",
-    "timestamp": "1789133801",
-    "path": "Medium/0050_Powx_n.java"
+    "runtime": "196 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2139092063",
+    "timestamp": "1789185414",
+    "path": "Easy/0543_Diameter_of_Binary_Tree.java"
   }
 ]
