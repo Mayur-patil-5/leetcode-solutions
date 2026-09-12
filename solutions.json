@@ -1033,10 +1033,10 @@
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "196 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2139092063",
-    "timestamp": "1789185414",
+    "runtime": "1 ms",
+    "memory": "46.8 MB",
+    "submissionId": "2139114376",
+    "timestamp": "1789187675",
     "path": "Easy/0543_Diameter_of_Binary_Tree.java"
   }
 ]
