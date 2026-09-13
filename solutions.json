@@ -1027,6 +1027,19 @@
     "path": "Easy/0543_Diameter_of_Binary_Tree.java"
   },
   {
+    "problemId": "237",
+    "problemTitle": "Delete Node in a Linked List",
+    "problemSlug": "delete-node-in-a-linked-list",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2139664801",
+    "timestamp": "1789225836",
+    "path": "Medium/0237_Delete_Node_in_a_Linked_List.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1040,16 +1053,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "237",
-    "problemTitle": "Delete Node in a Linked List",
-    "problemSlug": "delete-node-in-a-linked-list",
+    "problemId": "864",
+    "problemTitle": "Image Overlap",
+    "problemSlug": "image-overlap",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "45.5 MB",
-    "submissionId": "2139664801",
-    "timestamp": "1789225836",
-    "path": "Medium/0237_Delete_Node_in_a_Linked_List.java"
+    "runtime": "45 ms",
+    "memory": "44.2 MB",
+    "submissionId": "2140265589",
+    "timestamp": "1789276124",
+    "path": "Medium/0864_Image_Overlap.java"
   }
 ]
