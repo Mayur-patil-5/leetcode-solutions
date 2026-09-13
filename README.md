@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 81
+Total Solved: 82
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 81
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
+- Image Overlap ([Java](Medium/0864_Image_Overlap.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
@@ -97,7 +98,7 @@ Total Solved: 81
 | Difficulty | Count |
 |------------|--------|
 | Easy | 47 |
-| Medium | 32 |
+| Medium | 33 |
 | Hard | 2 |
 
 ---
