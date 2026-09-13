@@ -3,17 +3,17 @@
  * Problem ID: 864
  * Difficulty: Medium
  * Language: Java
- * Runtime: 45 ms
- * Memory: 44.2 MB
+ * Runtime: 44 ms
+ * Memory: 44.3 MB
  * Synced From: LeetCode
  * Date: 2026-09-13
  */
 
 class Solution {
+    //practice one more time.
     public static int  countoverlap(int[][] img1,int[][] img2,int row_offset,int col_offset){
         int n=img1.length;
         int count=0;
-
         for(int i=0;i<n;i++){
             for(int j=0;j<n;j++){
                 int img2_i=i+row_offset;
