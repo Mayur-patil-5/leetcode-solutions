@@ -1059,10 +1059,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "45 ms",
-    "memory": "44.2 MB",
-    "submissionId": "2140265589",
-    "timestamp": "1789276124",
+    "runtime": "44 ms",
+    "memory": "44.3 MB",
+    "submissionId": "2140266363",
+    "timestamp": "1789276190",
     "path": "Medium/0864_Image_Overlap.java"
   }
 ]
