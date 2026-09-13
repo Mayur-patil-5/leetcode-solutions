@@ -1040,6 +1040,19 @@
     "path": "Medium/0237_Delete_Node_in_a_Linked_List.java"
   },
   {
+    "problemId": "864",
+    "problemTitle": "Image Overlap",
+    "problemSlug": "image-overlap",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "44 ms",
+    "memory": "44.3 MB",
+    "submissionId": "2140266363",
+    "timestamp": "1789276190",
+    "path": "Medium/0864_Image_Overlap.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1053,16 +1066,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "864",
-    "problemTitle": "Image Overlap",
-    "problemSlug": "image-overlap",
+    "problemId": "236",
+    "problemTitle": "Lowest Common Ancestor of a Binary Tree",
+    "problemSlug": "lowest-common-ancestor-of-a-binary-tree",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "44 ms",
-    "memory": "44.3 MB",
-    "submissionId": "2140266363",
-    "timestamp": "1789276190",
-    "path": "Medium/0864_Image_Overlap.java"
+    "runtime": "15 ms",
+    "memory": "69.9 MB",
+    "submissionId": "2140285898",
+    "timestamp": "1789277835",
+    "path": "Medium/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.java"
   }
 ]
