@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 83
+Total Solved: 84
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 83
 - Diameter of Binary Tree ([Java](Easy/0543_Diameter_of_Binary_Tree.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - To Lower Case ([Java](Easy/0742_To_Lower_Case.java))
+- Rectangle Overlap ([Java](Easy/0866_Rectangle_Overlap.java))
 - Univalued Binary Tree ([Java](Easy/1005_Univalued_Binary_Tree.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
@@ -98,7 +99,7 @@ Total Solved: 83
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 47 |
+| Easy | 48 |
 | Medium | 34 |
 | Hard | 2 |
 
