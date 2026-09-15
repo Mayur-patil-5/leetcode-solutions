@@ -1079,6 +1079,19 @@
     "path": "Easy/0866_Rectangle_Overlap.java"
   },
   {
+    "problemId": "551",
+    "problemTitle": "Student Attendance Record I",
+    "problemSlug": "student-attendance-record-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43 MB",
+    "submissionId": "2142978928",
+    "timestamp": "1789497685",
+    "path": "Easy/0551_Student_Attendance_Record_I.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1092,16 +1105,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "551",
-    "problemTitle": "Student Attendance Record I",
-    "problemSlug": "student-attendance-record-i",
-    "difficulty": "Easy",
+    "problemId": "442",
+    "problemTitle": "Find All Duplicates in an Array",
+    "problemSlug": "find-all-duplicates-in-an-array",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "43 MB",
-    "submissionId": "2142978928",
-    "timestamp": "1789497685",
-    "path": "Easy/0551_Student_Attendance_Record_I.java"
+    "runtime": "3 ms",
+    "memory": "62.2 MB",
+    "submissionId": "2142990330",
+    "timestamp": "1789498440",
+    "path": "Medium/0442_Find_All_Duplicates_in_an_Array.java"
   }
 ]
