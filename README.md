@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 85
+Total Solved: 86
 
 ## Easy
 
@@ -77,6 +77,7 @@ Total Solved: 85
 - Delete Node in a Linked List ([Java](Medium/0237_Delete_Node_in_a_Linked_List.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
+- Find All Duplicates in an Array ([Java](Medium/0442_Find_All_Duplicates_in_an_Array.java))
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
 - Image Overlap ([Java](Medium/0864_Image_Overlap.java))
@@ -101,7 +102,7 @@ Total Solved: 85
 | Difficulty | Count |
 |------------|--------|
 | Easy | 49 |
-| Medium | 34 |
+| Medium | 35 |
 | Hard | 2 |
 
 ---
