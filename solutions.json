@@ -1092,6 +1092,19 @@
     "path": "Easy/0551_Student_Attendance_Record_I.java"
   },
   {
+    "problemId": "442",
+    "problemTitle": "Find All Duplicates in an Array",
+    "problemSlug": "find-all-duplicates-in-an-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "62.2 MB",
+    "submissionId": "2142990330",
+    "timestamp": "1789498440",
+    "path": "Medium/0442_Find_All_Duplicates_in_an_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1105,16 +1118,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "442",
-    "problemTitle": "Find All Duplicates in an Array",
-    "problemSlug": "find-all-duplicates-in-an-array",
+    "problemId": "1850",
+    "problemTitle": "Minimum Length of String After Deleting Similar Ends",
+    "problemSlug": "minimum-length-of-string-after-deleting-similar-ends",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "3 ms",
-    "memory": "62.2 MB",
-    "submissionId": "2142990330",
-    "timestamp": "1789498440",
-    "path": "Medium/0442_Find_All_Duplicates_in_an_Array.java"
+    "memory": "47.2 MB",
+    "submissionId": "2143870829",
+    "timestamp": "1789576293",
+    "path": "Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java"
   }
 ]
