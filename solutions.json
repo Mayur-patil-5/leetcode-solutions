@@ -1105,6 +1105,19 @@
     "path": "Medium/0442_Find_All_Duplicates_in_an_Array.java"
   },
   {
+    "problemId": "1850",
+    "problemTitle": "Minimum Length of String After Deleting Similar Ends",
+    "problemSlug": "minimum-length-of-string-after-deleting-similar-ends",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2143870829",
+    "timestamp": "1789576293",
+    "path": "Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1118,16 +1131,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1850",
-    "problemTitle": "Minimum Length of String After Deleting Similar Ends",
-    "problemSlug": "minimum-length-of-string-after-deleting-similar-ends",
+    "problemId": "137",
+    "problemTitle": "Single Number II",
+    "problemSlug": "single-number-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "47.2 MB",
-    "submissionId": "2143870829",
-    "timestamp": "1789576293",
-    "path": "Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java"
+    "runtime": "6 ms",
+    "memory": "46.5 MB",
+    "submissionId": "2145066835",
+    "timestamp": "1789669499",
+    "path": "Medium/0137_Single_Number_II.java"
   }
 ]
