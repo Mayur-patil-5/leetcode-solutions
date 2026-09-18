@@ -1131,6 +1131,19 @@
     "path": "Medium/0137_Single_Number_II.java"
   },
   {
+    "problemId": "503",
+    "problemTitle": "Next Greater Element II",
+    "problemSlug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "92 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2145958858",
+    "timestamp": "1789750765",
+    "path": "Medium/0503_Next_Greater_Element_II.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1144,16 +1157,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "503",
-    "problemTitle": "Next Greater Element II",
-    "problemSlug": "next-greater-element-ii",
-    "difficulty": "Medium",
+    "problemId": "4",
+    "problemTitle": "Median of Two Sorted Arrays",
+    "problemSlug": "median-of-two-sorted-arrays",
+    "difficulty": "Hard",
     "language": "Java",
     "extension": "java",
-    "runtime": "92 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2145958858",
-    "timestamp": "1789750765",
-    "path": "Medium/0503_Next_Greater_Element_II.java"
+    "runtime": "7 ms",
+    "memory": "49.1 MB",
+    "submissionId": "2145971930",
+    "timestamp": "1789751501",
+    "path": "Hard/0004_Median_of_Two_Sorted_Arrays.java"
   }
 ]
