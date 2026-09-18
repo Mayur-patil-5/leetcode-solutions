@@ -1118,6 +1118,19 @@
     "path": "Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java"
   },
   {
+    "problemId": "137",
+    "problemTitle": "Single Number II",
+    "problemSlug": "single-number-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "46.5 MB",
+    "submissionId": "2145066835",
+    "timestamp": "1789669499",
+    "path": "Medium/0137_Single_Number_II.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1131,16 +1144,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "137",
-    "problemTitle": "Single Number II",
-    "problemSlug": "single-number-ii",
+    "problemId": "503",
+    "problemTitle": "Next Greater Element II",
+    "problemSlug": "next-greater-element-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "46.5 MB",
-    "submissionId": "2145066835",
-    "timestamp": "1789669499",
-    "path": "Medium/0137_Single_Number_II.java"
+    "runtime": "92 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2145958858",
+    "timestamp": "1789750765",
+    "path": "Medium/0503_Next_Greater_Element_II.java"
   }
 ]
