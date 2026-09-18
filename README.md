@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 89
+Total Solved: 90
 
 ## Easy
 
@@ -97,6 +97,7 @@ Total Solved: 89
 
 ## Hard
 
+- Median of Two Sorted Arrays ([Java](Hard/0004_Median_of_Two_Sorted_Arrays.java))
 - First Missing Positive ([Java](Hard/0041_First_Missing_Positive.java))
 - Burst Balloons ([Java](Hard/0312_Burst_Balloons.java))
 
@@ -106,7 +107,7 @@ Total Solved: 89
 |------------|--------|
 | Easy | 49 |
 | Medium | 38 |
-| Hard | 2 |
+| Hard | 3 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
