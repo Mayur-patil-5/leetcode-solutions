@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 90
+Total Solved: 91
 
 ## Easy
 
@@ -85,6 +85,7 @@ Total Solved: 90
 - Image Overlap ([Java](Medium/0864_Image_Overlap.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
+- Circle and Rectangle Overlapping ([Java](Medium/1501_Circle_and_Rectangle_Overlapping.java))
 - Minimum Length of String After Deleting Similar Ends ([Java](Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
@@ -106,7 +107,7 @@ Total Solved: 90
 | Difficulty | Count |
 |------------|--------|
 | Easy | 49 |
-| Medium | 38 |
+| Medium | 39 |
 | Hard | 3 |
 
 ---
