@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 91
+Total Solved: 92
 
 ## Easy
 
@@ -100,6 +100,7 @@ Total Solved: 91
 
 - Median of Two Sorted Arrays ([Java](Hard/0004_Median_of_Two_Sorted_Arrays.java))
 - First Missing Positive ([Java](Hard/0041_First_Missing_Positive.java))
+- Binary Tree Maximum Path Sum ([Java](Hard/0124_Binary_Tree_Maximum_Path_Sum.java))
 - Burst Balloons ([Java](Hard/0312_Burst_Balloons.java))
 
 ## Statistics
@@ -108,7 +109,7 @@ Total Solved: 91
 |------------|--------|
 | Easy | 49 |
 | Medium | 39 |
-| Hard | 3 |
+| Hard | 4 |
 
 ---
 *README.md automatically updated by [LeetCelebrate](https://github.com/)*
