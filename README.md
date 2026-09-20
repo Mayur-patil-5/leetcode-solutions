@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 92
+Total Solved: 93
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 92
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Bad Version ([Java](Easy/0278_First_Bad_Version.java))
+- Move Zeroes ([Java](Easy/0283_Move_Zeroes.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Diameter of Binary Tree ([Java](Easy/0543_Diameter_of_Binary_Tree.java))
 - Student Attendance Record I ([Java](Easy/0551_Student_Attendance_Record_I.java))
@@ -107,7 +108,7 @@ Total Solved: 92
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 49 |
+| Easy | 50 |
 | Medium | 39 |
 | Hard | 4 |
 
