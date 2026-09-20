@@ -1183,6 +1183,19 @@
     "path": "Hard/0124_Binary_Tree_Maximum_Path_Sum.java"
   },
   {
+    "problemId": "283",
+    "problemTitle": "Move Zeroes",
+    "problemSlug": "move-zeroes",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "48.1 MB",
+    "submissionId": "2147499004",
+    "timestamp": "1789893644",
+    "path": "Easy/0283_Move_Zeroes.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1196,16 +1209,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "283",
-    "problemTitle": "Move Zeroes",
-    "problemSlug": "move-zeroes",
+    "problemId": "3811",
+    "problemTitle": "Reverse Degree of a String",
+    "problemSlug": "reverse-degree-of-a-string",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "48.1 MB",
-    "submissionId": "2147499004",
-    "timestamp": "1789893644",
-    "path": "Easy/0283_Move_Zeroes.java"
+    "runtime": "1 ms",
+    "memory": "44.2 MB",
+    "submissionId": "2147706067",
+    "timestamp": "1789910185",
+    "path": "Easy/3811_Reverse_Degree_of_a_String.java"
   }
 ]
