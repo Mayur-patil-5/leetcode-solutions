@@ -4,7 +4,7 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 3 ms
- * Memory: 52.5 MB
+ * Memory: 52.6 MB
  * Synced From: LeetCode
  * Date: 2026-09-22
  */
@@ -14,7 +14,8 @@ class Solution {
         int n=nums.length;
         int maxi=0;
         int cnt=0;
-        for(int i=0;i<n;i++){
+        int i=0;
+        while(i<n){
           if(nums[i]==1){
                 cnt++;
                 maxi=Math.max(maxi,cnt);
@@ -22,6 +23,7 @@ class Solution {
             else{
                 cnt=0;
             }
+            i++;
         }
         return maxi;
     }
