@@ -1209,6 +1209,19 @@
     "path": "Easy/3811_Reverse_Degree_of_a_String.java"
   },
   {
+    "problemId": "136",
+    "problemTitle": "Single Number",
+    "problemSlug": "single-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "12 ms",
+    "memory": "47 MB",
+    "submissionId": "2148981088",
+    "timestamp": "1790013957",
+    "path": "Easy/0136_Single_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1222,16 +1235,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "136",
-    "problemTitle": "Single Number",
-    "problemSlug": "single-number",
-    "difficulty": "Easy",
+    "problemId": "2581",
+    "problemTitle": "Divide Players Into Teams of Equal Skill",
+    "problemSlug": "divide-players-into-teams-of-equal-skill",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "12 ms",
-    "memory": "47 MB",
-    "submissionId": "2148981088",
-    "timestamp": "1790013957",
-    "path": "Easy/0136_Single_Number.java"
+    "runtime": "20 ms",
+    "memory": "76.6 MB",
+    "submissionId": "2150103558",
+    "timestamp": "1790100866",
+    "path": "Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java"
   }
 ]
