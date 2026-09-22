@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 95
+Total Solved: 96
 
 ## Easy
 
@@ -95,6 +95,7 @@ Total Solved: 95
 - Count Nodes Equal to Average of Subtree ([Java](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.java))
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
+- Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
 - Construct Uniform Parity Array II ([Java](Medium/4258_Construct_Uniform_Parity_Array_II.java))
 - Smallest Stable Index II ([Java](Medium/4285_Smallest_Stable_Index_II.java))
@@ -111,7 +112,7 @@ Total Solved: 95
 | Difficulty | Count |
 |------------|--------|
 | Easy | 52 |
-| Medium | 39 |
+| Medium | 40 |
 | Hard | 4 |
 
 ---
