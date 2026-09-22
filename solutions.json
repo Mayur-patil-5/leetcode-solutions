@@ -1222,6 +1222,19 @@
     "path": "Easy/0136_Single_Number.java"
   },
   {
+    "problemId": "2581",
+    "problemTitle": "Divide Players Into Teams of Equal Skill",
+    "problemSlug": "divide-players-into-teams-of-equal-skill",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "20 ms",
+    "memory": "76.6 MB",
+    "submissionId": "2150103558",
+    "timestamp": "1790100866",
+    "path": "Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1235,16 +1248,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2581",
-    "problemTitle": "Divide Players Into Teams of Equal Skill",
-    "problemSlug": "divide-players-into-teams-of-equal-skill",
-    "difficulty": "Medium",
+    "problemId": "485",
+    "problemTitle": "Max Consecutive Ones",
+    "problemSlug": "max-consecutive-ones",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "20 ms",
-    "memory": "76.6 MB",
-    "submissionId": "2150103558",
-    "timestamp": "1790100866",
-    "path": "Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java"
+    "runtime": "3 ms",
+    "memory": "52.5 MB",
+    "submissionId": "2150115277",
+    "timestamp": "1790101441",
+    "path": "Easy/0485_Max_Consecutive_Ones.java"
   }
 ]
