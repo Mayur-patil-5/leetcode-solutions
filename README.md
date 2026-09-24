@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 97
+Total Solved: 98
 
 ## Easy
 
@@ -49,6 +49,7 @@ Total Solved: 97
 - Unique 3-Digit Even Numbers ([Java](Easy/3799_Unique_3-Digit_Even_Numbers.java))
 - Reverse Degree of a String ([Java](Easy/3811_Reverse_Degree_of_a_String.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
+- Smallest Index With Digit Sum Equal to Index ([Java](Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.java))
 - Check Divisibility by Digit Sum and Product ([Java](Easy/3918_Check_Divisibility_by_Digit_Sum_and_Product.java))
 - GCD of Odd and Even Sums ([Java](Easy/3995_GCD_of_Odd_and_Even_Sums.java))
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
@@ -112,7 +113,7 @@ Total Solved: 97
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 53 |
+| Easy | 54 |
 | Medium | 40 |
 | Hard | 4 |
 
