@@ -1235,6 +1235,19 @@
     "path": "Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java"
   },
   {
+    "problemId": "485",
+    "problemTitle": "Max Consecutive Ones",
+    "problemSlug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "52.6 MB",
+    "submissionId": "2150117191",
+    "timestamp": "1790101535",
+    "path": "Easy/0485_Max_Consecutive_Ones.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1248,16 +1261,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "485",
-    "problemTitle": "Max Consecutive Ones",
-    "problemSlug": "max-consecutive-ones",
+    "problemId": "3869",
+    "problemTitle": "Smallest Index With Digit Sum Equal to Index",
+    "problemSlug": "smallest-index-with-digit-sum-equal-to-index",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "52.6 MB",
-    "submissionId": "2150117191",
-    "timestamp": "1790101535",
-    "path": "Easy/0485_Max_Consecutive_Ones.java"
+    "runtime": "1 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2152202240",
+    "timestamp": "1790267503",
+    "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.java"
   }
 ]
