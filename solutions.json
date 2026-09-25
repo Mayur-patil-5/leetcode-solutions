@@ -1248,6 +1248,19 @@
     "path": "Easy/0485_Max_Consecutive_Ones.java"
   },
   {
+    "problemId": "3869",
+    "problemTitle": "Smallest Index With Digit Sum Equal to Index",
+    "problemSlug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2152202240",
+    "timestamp": "1790267503",
+    "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1261,16 +1274,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3869",
-    "problemTitle": "Smallest Index With Digit Sum Equal to Index",
-    "problemSlug": "smallest-index-with-digit-sum-equal-to-index",
+    "problemId": "217",
+    "problemTitle": "Contains Duplicate",
+    "problemSlug": "contains-duplicate",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "45.6 MB",
-    "submissionId": "2152202240",
-    "timestamp": "1790267503",
-    "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.java"
+    "runtime": "18 ms",
+    "memory": "108.3 MB",
+    "submissionId": "2153311798",
+    "timestamp": "1790363238",
+    "path": "Easy/0217_Contains_Duplicate.java"
   }
 ]
