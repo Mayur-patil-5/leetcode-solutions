@@ -1261,6 +1261,19 @@
     "path": "Easy/3869_Smallest_Index_With_Digit_Sum_Equal_to_Index.java"
   },
   {
+    "problemId": "217",
+    "problemTitle": "Contains Duplicate",
+    "problemSlug": "contains-duplicate",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "18 ms",
+    "memory": "108.3 MB",
+    "submissionId": "2153311798",
+    "timestamp": "1790363238",
+    "path": "Easy/0217_Contains_Duplicate.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1274,16 +1287,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "217",
-    "problemTitle": "Contains Duplicate",
-    "problemSlug": "contains-duplicate",
+    "problemId": "3790",
+    "problemTitle": "Fruits Into Baskets II",
+    "problemSlug": "fruits-into-baskets-ii",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "18 ms",
-    "memory": "108.3 MB",
-    "submissionId": "2153311798",
-    "timestamp": "1790363238",
-    "path": "Easy/0217_Contains_Duplicate.java"
+    "runtime": "2 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2154236440",
+    "timestamp": "1790445232",
+    "path": "Easy/3790_Fruits_Into_Baskets_II.java"
   }
 ]
