@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 99
+Total Solved: 100
 
 ## Easy
 
@@ -47,6 +47,7 @@ Total Solved: 99
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
+- Fruits Into Baskets II ([Java](Easy/3790_Fruits_Into_Baskets_II.java))
 - Unique 3-Digit Even Numbers ([Java](Easy/3799_Unique_3-Digit_Even_Numbers.java))
 - Reverse Degree of a String ([Java](Easy/3811_Reverse_Degree_of_a_String.java))
 - Maximum Product of Two Digits ([Java](Easy/3859_Maximum_Product_of_Two_Digits.java))
@@ -114,7 +115,7 @@ Total Solved: 99
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 55 |
+| Easy | 56 |
 | Medium | 40 |
 | Hard | 4 |
 
