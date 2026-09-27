@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 100
+Total Solved: 101
 
 ## Easy
 
@@ -13,6 +13,7 @@ Total Solved: 100
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
 - Climbing Stairs ([Java](Easy/0070_Climbing_Stairs.java))
+- Merge Sorted Array ([Java](Easy/0088_Merge_Sorted_Array.java))
 - Binary Tree Inorder Traversal ([Java](Easy/0094_Binary_Tree_Inorder_Traversal.java))
 - Single Number ([Java](Easy/0136_Single_Number.java))
 - Binary Tree Preorder Traversal ([Java](Easy/0144_Binary_Tree_Preorder_Traversal.java))
@@ -115,7 +116,7 @@ Total Solved: 100
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 56 |
+| Easy | 57 |
 | Medium | 40 |
 | Hard | 4 |
 
