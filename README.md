@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 101
+Total Solved: 102
 
 ## Easy
 
@@ -40,6 +40,7 @@ Total Solved: 101
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
+- Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
@@ -116,7 +117,7 @@ Total Solved: 101
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 57 |
+| Easy | 58 |
 | Medium | 40 |
 | Hard | 4 |
 
