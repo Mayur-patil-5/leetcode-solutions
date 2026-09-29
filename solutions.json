@@ -1300,6 +1300,19 @@
     "path": "Easy/0088_Merge_Sorted_Array.java"
   },
   {
+    "problemId": "1737",
+    "problemTitle": "Maximum Nesting Depth of the Parentheses",
+    "problemSlug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2156316442",
+    "timestamp": "1790618246",
+    "path": "Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1313,16 +1326,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1737",
-    "problemTitle": "Maximum Nesting Depth of the Parentheses",
-    "problemSlug": "maximum-nesting-depth-of-the-parentheses",
-    "difficulty": "Easy",
+    "problemId": "198",
+    "problemTitle": "House Robber",
+    "problemSlug": "house-robber",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "42.7 MB",
-    "submissionId": "2156316442",
-    "timestamp": "1790618246",
-    "path": "Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java"
+    "memory": "43.2 MB",
+    "submissionId": "2156553963",
+    "timestamp": "1790647870",
+    "path": "Medium/0198_House_Robber.java"
   }
 ]
