@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 102
+Total Solved: 103
 
 ## Easy
 
@@ -81,6 +81,7 @@ Total Solved: 102
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
+- House Robber ([Java](Medium/0198_House_Robber.java))
 - Count Primes ([Java](Medium/0204_Count_Primes.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
 - Lowest Common Ancestor of a Binary Tree ([Java](Medium/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.java))
@@ -118,7 +119,7 @@ Total Solved: 102
 | Difficulty | Count |
 |------------|--------|
 | Easy | 58 |
-| Medium | 40 |
+| Medium | 41 |
 | Hard | 4 |
 
 ---
