@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 103
+Total Solved: 104
 
 ## Easy
 
@@ -98,6 +98,7 @@ Total Solved: 103
 - Circle and Rectangle Overlapping ([Java](Medium/1501_Circle_and_Rectangle_Overlapping.java))
 - Minimum Length of String After Deleting Similar Ends ([Java](Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
+- Find Original Array From Doubled Array ([Java](Medium/2117_Find_Original_Array_From_Doubled_Array.java))
 - Removing Minimum and Maximum From Array ([Java](Medium/2212_Removing_Minimum_and_Maximum_From_Array.java))
 - Count Nodes Equal to Average of Subtree ([Java](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.java))
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
@@ -119,7 +120,7 @@ Total Solved: 103
 | Difficulty | Count |
 |------------|--------|
 | Easy | 58 |
-| Medium | 41 |
+| Medium | 42 |
 | Hard | 4 |
 
 ---
