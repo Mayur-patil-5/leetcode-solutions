@@ -1339,6 +1339,19 @@
     "path": "Medium/2117_Find_Original_Array_From_Doubled_Array.java"
   },
   {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2159363362",
+    "timestamp": "1790870286",
+    "path": "Easy/0020_Valid_Parentheses.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1352,16 +1365,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "20",
-    "problemTitle": "Valid Parentheses",
-    "problemSlug": "valid-parentheses",
+    "problemId": "2032",
+    "problemTitle": "Largest Odd Number in String",
+    "problemSlug": "largest-odd-number-in-string",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "43.1 MB",
-    "submissionId": "2159363362",
-    "timestamp": "1790870286",
-    "path": "Easy/0020_Valid_Parentheses.java"
+    "runtime": "1 ms",
+    "memory": "47 MB",
+    "submissionId": "2159489635",
+    "timestamp": "1790877354",
+    "path": "Easy/2032_Largest_Odd_Number_in_String.java"
   }
 ]
