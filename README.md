@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 104
+Total Solved: 105
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
+- Valid Parentheses ([Java](Easy/0020_Valid_Parentheses.java))
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
@@ -119,7 +120,7 @@ Total Solved: 104
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 58 |
+| Easy | 59 |
 | Medium | 42 |
 | Hard | 4 |
 
