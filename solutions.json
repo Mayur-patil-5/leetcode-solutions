@@ -1326,6 +1326,19 @@
     "path": "Medium/0198_House_Robber.java"
   },
   {
+    "problemId": "2117",
+    "problemTitle": "Find Original Array From Doubled Array",
+    "problemSlug": "find-original-array-from-doubled-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "113 ms",
+    "memory": "138.6 MB",
+    "submissionId": "2158452665",
+    "timestamp": "1790790274",
+    "path": "Medium/2117_Find_Original_Array_From_Doubled_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1339,16 +1352,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2117",
-    "problemTitle": "Find Original Array From Doubled Array",
-    "problemSlug": "find-original-array-from-doubled-array",
-    "difficulty": "Medium",
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "113 ms",
-    "memory": "138.6 MB",
-    "submissionId": "2158452665",
-    "timestamp": "1790790274",
-    "path": "Medium/2117_Find_Original_Array_From_Doubled_Array.java"
+    "runtime": "3 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2159363362",
+    "timestamp": "1790870286",
+    "path": "Easy/0020_Valid_Parentheses.java"
   }
 ]
