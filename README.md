@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 105
+Total Solved: 106
 
 ## Easy
 
@@ -42,6 +42,7 @@ Total Solved: 105
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
+- Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
@@ -120,7 +121,7 @@ Total Solved: 105
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 59 |
+| Easy | 60 |
 | Medium | 42 |
 | Hard | 4 |
 
