@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 108
+Total Solved: 109
 
 ## Easy
 
@@ -95,6 +95,7 @@ Total Solved: 108
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Next Greater Element II ([Java](Medium/0503_Next_Greater_Element_II.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
+- Valid Square ([Java](Medium/0593_Valid_Square.java))
 - Image Overlap ([Java](Medium/0864_Image_Overlap.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
@@ -124,7 +125,7 @@ Total Solved: 108
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 44 |
+| Medium | 45 |
 | Hard | 4 |
 
 ---
