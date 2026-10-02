@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 106
+Total Solved: 107
 
 ## Easy
 
@@ -73,6 +73,7 @@ Total Solved: 106
 - Find First and Last Position of Element in Sorted Array ([Java](Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java))
 - Pow(x, n) ([Java](Medium/0050_Powx_n.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
+- Search a 2D Matrix ([Java](Medium/0074_Search_a_2D_Matrix.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
 - Longest Consecutive Sequence ([Java](Medium/0128_Longest_Consecutive_Sequence.java))
@@ -122,7 +123,7 @@ Total Solved: 106
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 42 |
+| Medium | 43 |
 | Hard | 4 |
 
 ---
