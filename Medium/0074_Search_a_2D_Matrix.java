@@ -3,8 +3,8 @@
  * Problem ID: 74
  * Difficulty: Medium
  * Language: Java
- * Runtime: N/A
- * Memory: N/A
+ * Runtime: 0 ms
+ * Memory: 44 MB
  * Synced From: LeetCode
  * Date: 2026-10-02
  */
@@ -22,23 +22,34 @@
 //         }
 //         return false;
 //     }
-// }
+// }  
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
+
         int m = matrix.length;
         int n = matrix[0].length;
-        int i = 0;
-        int j = n - 1;
-        while (i < m && j >= 0) {
-            if (matrix[i][j] == target) {
+
+        int left = 0;
+        int right = m * n - 1;
+
+        while (left <= right) {
+
+            int mid = left + (right - left) / 2;
+
+            int row = mid / n;
+            int col = mid % n;
+
+            if (matrix[row][col] == target) {
                 return true;
             }
-            if (matrix[i][j] > target) {
-                j--;
+
+            if (matrix[row][col] < target) {
+                left = mid + 1;
             } else {
-                i++;
+                right = mid - 1;
             }
         }
+
         return false;
     }
 }
