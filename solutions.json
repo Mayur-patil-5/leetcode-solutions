@@ -1384,10 +1384,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "N/A",
-    "memory": "N/A",
-    "submissionId": "2159763592",
-    "timestamp": "1790914932",
+    "runtime": "0 ms",
+    "memory": "44 MB",
+    "submissionId": "2159765397",
+    "timestamp": "1790915118",
     "path": "Medium/0074_Search_a_2D_Matrix.java"
   }
 ]
