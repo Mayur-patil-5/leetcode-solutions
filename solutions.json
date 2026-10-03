@@ -1391,6 +1391,19 @@
     "path": "Medium/0946_Smallest_Range_II.java"
   },
   {
+    "problemId": "593",
+    "problemTitle": "Valid Square",
+    "problemSlug": "valid-square",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "43 MB",
+    "submissionId": "2160050637",
+    "timestamp": "1790937850",
+    "path": "Medium/0593_Valid_Square.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1404,16 +1417,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "593",
-    "problemTitle": "Valid Square",
-    "problemSlug": "valid-square",
+    "problemId": "1063",
+    "problemTitle": "Best Sightseeing Pair",
+    "problemSlug": "best-sightseeing-pair",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "43 MB",
-    "submissionId": "2160050637",
-    "timestamp": "1790937850",
-    "path": "Medium/0593_Valid_Square.java"
+    "runtime": "4 ms",
+    "memory": "54.2 MB",
+    "submissionId": "2161155062",
+    "timestamp": "1791037695",
+    "path": "Medium/1063_Best_Sightseeing_Pair.java"
   }
 ]
