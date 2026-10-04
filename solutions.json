@@ -1404,6 +1404,19 @@
     "path": "Medium/0593_Valid_Square.java"
   },
   {
+    "problemId": "1063",
+    "problemTitle": "Best Sightseeing Pair",
+    "problemSlug": "best-sightseeing-pair",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "54.2 MB",
+    "submissionId": "2161155062",
+    "timestamp": "1791037695",
+    "path": "Medium/1063_Best_Sightseeing_Pair.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1417,16 +1430,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1063",
-    "problemTitle": "Best Sightseeing Pair",
-    "problemSlug": "best-sightseeing-pair",
+    "problemId": "229",
+    "problemTitle": "Majority Element II",
+    "problemSlug": "majority-element-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "4 ms",
-    "memory": "54.2 MB",
-    "submissionId": "2161155062",
-    "timestamp": "1791037695",
-    "path": "Medium/1063_Best_Sightseeing_Pair.java"
+    "runtime": "15 ms",
+    "memory": "52.9 MB",
+    "submissionId": "2161692707",
+    "timestamp": "1791086123",
+    "path": "Medium/0229_Majority_Element_II.java"
   }
 ]
