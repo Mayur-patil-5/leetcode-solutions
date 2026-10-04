@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 110
+Total Solved: 111
 
 ## Easy
 
@@ -87,6 +87,7 @@ Total Solved: 110
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - Count Primes ([Java](Medium/0204_Count_Primes.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
+- Majority Element II ([Java](Medium/0229_Majority_Element_II.java))
 - Lowest Common Ancestor of a Binary Tree ([Java](Medium/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.java))
 - Delete Node in a Linked List ([Java](Medium/0237_Delete_Node_in_a_Linked_List.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
@@ -126,7 +127,7 @@ Total Solved: 110
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 46 |
+| Medium | 47 |
 | Hard | 4 |
 
 ---
