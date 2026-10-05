@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 111
+Total Solved: 112
 
 ## Easy
 
@@ -92,6 +92,7 @@ Total Solved: 111
 - Delete Node in a Linked List ([Java](Medium/0237_Delete_Node_in_a_Linked_List.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
+- Odd Even Linked List ([Java](Medium/0328_Odd_Even_Linked_List.java))
 - Find All Duplicates in an Array ([Java](Medium/0442_Find_All_Duplicates_in_an_Array.java))
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Next Greater Element II ([Java](Medium/0503_Next_Greater_Element_II.java))
@@ -127,7 +128,7 @@ Total Solved: 111
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 47 |
+| Medium | 48 |
 | Hard | 4 |
 
 ---
