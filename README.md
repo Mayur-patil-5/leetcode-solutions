@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 113
+Total Solved: 114
 
 ## Easy
 
@@ -84,6 +84,7 @@ Total Solved: 113
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
+- Rotate Array ([Java](Medium/0189_Rotate_Array.java))
 - House Robber ([Java](Medium/0198_House_Robber.java))
 - Count Primes ([Java](Medium/0204_Count_Primes.java))
 - Kth Largest Element in an Array ([Java](Medium/0215_Kth_Largest_Element_in_an_Array.java))
@@ -129,7 +130,7 @@ Total Solved: 113
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 49 |
+| Medium | 50 |
 | Hard | 4 |
 
 ---
