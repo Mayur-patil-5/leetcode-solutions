@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 114
+Total Solved: 115
 
 ## Easy
 
@@ -76,6 +76,7 @@ Total Solved: 114
 - Search a 2D Matrix ([Java](Medium/0074_Search_a_2D_Matrix.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
 - Remove Duplicates from Sorted Array II ([Java](Medium/0080_Remove_Duplicates_from_Sorted_Array_II.java))
+- Remove Duplicates from Sorted List II ([Java](Medium/0082_Remove_Duplicates_from_Sorted_List_II.java))
 - Longest Consecutive Sequence ([Java](Medium/0128_Longest_Consecutive_Sequence.java))
 - Single Number II ([Java](Medium/0137_Single_Number_II.java))
 - Word Break ([Java](Medium/0139_Word_Break.java))
@@ -130,7 +131,7 @@ Total Solved: 114
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 50 |
+| Medium | 51 |
 | Hard | 4 |
 
 ---
