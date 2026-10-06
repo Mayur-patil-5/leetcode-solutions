@@ -1456,6 +1456,19 @@
     "path": "Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java"
   },
   {
+    "problemId": "189",
+    "problemTitle": "Rotate Array",
+    "problemSlug": "rotate-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "273.3 MB",
+    "submissionId": "2164514626",
+    "timestamp": "1791306802",
+    "path": "Medium/0189_Rotate_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1469,16 +1482,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "189",
-    "problemTitle": "Rotate Array",
-    "problemSlug": "rotate-array",
+    "problemId": "82",
+    "problemTitle": "Remove Duplicates from Sorted List II",
+    "problemSlug": "remove-duplicates-from-sorted-list-ii",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "273.3 MB",
-    "submissionId": "2164514626",
-    "timestamp": "1791306802",
-    "path": "Medium/0189_Rotate_Array.java"
+    "runtime": "1 ms",
+    "memory": "44.4 MB",
+    "submissionId": "2164542234",
+    "timestamp": "1791308087",
+    "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.java"
   }
 ]
