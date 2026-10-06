@@ -1443,6 +1443,19 @@
     "path": "Medium/0328_Odd_Even_Linked_List.java"
   },
   {
+    "problemId": "957",
+    "problemTitle": "Minimum Add to Make Parentheses Valid",
+    "problemSlug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "43 MB",
+    "submissionId": "2164492745",
+    "timestamp": "1791305800",
+    "path": "Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1456,16 +1469,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "957",
-    "problemTitle": "Minimum Add to Make Parentheses Valid",
-    "problemSlug": "minimum-add-to-make-parentheses-valid",
+    "problemId": "189",
+    "problemTitle": "Rotate Array",
+    "problemSlug": "rotate-array",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "43 MB",
-    "submissionId": "2164492745",
-    "timestamp": "1791305800",
-    "path": "Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java"
+    "runtime": "7 ms",
+    "memory": "273.3 MB",
+    "submissionId": "2164514626",
+    "timestamp": "1791306802",
+    "path": "Medium/0189_Rotate_Array.java"
   }
 ]
