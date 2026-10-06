@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 112
+Total Solved: 113
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 112
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Smallest Range II ([Java](Medium/0946_Smallest_Range_II.java))
+- Minimum Add to Make Parentheses Valid ([Java](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java))
 - Best Sightseeing Pair ([Java](Medium/1063_Best_Sightseeing_Pair.java))
 - Circle and Rectangle Overlapping ([Java](Medium/1501_Circle_and_Rectangle_Overlapping.java))
 - Minimum Length of String After Deleting Similar Ends ([Java](Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java))
@@ -128,7 +129,7 @@ Total Solved: 112
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 48 |
+| Medium | 49 |
 | Hard | 4 |
 
 ---
