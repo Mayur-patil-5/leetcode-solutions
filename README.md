@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 115
+Total Solved: 116
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 115
 - Valid Square ([Java](Medium/0593_Valid_Square.java))
 - Image Overlap ([Java](Medium/0864_Image_Overlap.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
+- Prime Palindrome ([Java](Medium/0897_Prime_Palindrome.java))
 - Stone Game ([Java](Medium/0909_Stone_Game.java))
 - Smallest Range II ([Java](Medium/0946_Smallest_Range_II.java))
 - Minimum Add to Make Parentheses Valid ([Java](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java))
@@ -131,7 +132,7 @@ Total Solved: 115
 | Difficulty | Count |
 |------------|--------|
 | Easy | 60 |
-| Medium | 51 |
+| Medium | 52 |
 | Hard | 4 |
 
 ---
