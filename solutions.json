@@ -1482,19 +1482,6 @@
     "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.java"
   },
   {
-    "problemId": "178",
-    "problemTitle": "Rank Scores",
-    "problemSlug": "rank-scores",
-    "difficulty": "Medium",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "314 ms",
-    "memory": "0B",
-    "submissionId": "2126432916",
-    "timestamp": "1788198301",
-    "path": "Medium/0178_Rank_Scores.sql"
-  },
-  {
     "problemId": "897",
     "problemTitle": "Prime Palindrome",
     "problemSlug": "prime-palindrome",
@@ -1506,5 +1493,18 @@
     "submissionId": "2165577836",
     "timestamp": "1791394201",
     "path": "Medium/0897_Prime_Palindrome.java"
+  },
+  {
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "314 ms",
+    "memory": "0B",
+    "submissionId": "2126432916",
+    "timestamp": "1788198301",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
