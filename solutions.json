@@ -1469,6 +1469,19 @@
     "path": "Medium/0189_Rotate_Array.java"
   },
   {
+    "problemId": "82",
+    "problemTitle": "Remove Duplicates from Sorted List II",
+    "problemSlug": "remove-duplicates-from-sorted-list-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "44.4 MB",
+    "submissionId": "2164542234",
+    "timestamp": "1791308087",
+    "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1482,16 +1495,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "82",
-    "problemTitle": "Remove Duplicates from Sorted List II",
-    "problemSlug": "remove-duplicates-from-sorted-list-ii",
+    "problemId": "897",
+    "problemTitle": "Prime Palindrome",
+    "problemSlug": "prime-palindrome",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "44.4 MB",
-    "submissionId": "2164542234",
-    "timestamp": "1791308087",
-    "path": "Medium/0082_Remove_Duplicates_from_Sorted_List_II.java"
+    "runtime": "48 ms",
+    "memory": "46.2 MB",
+    "submissionId": "2165577836",
+    "timestamp": "1791394201",
+    "path": "Medium/0897_Prime_Palindrome.java"
   }
 ]
