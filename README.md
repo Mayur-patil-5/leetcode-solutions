@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 117
+Total Solved: 118
 
 ## Easy
 
@@ -37,6 +37,7 @@ Total Solved: 117
 - Univalued Binary Tree ([Java](Easy/1005_Univalued_Binary_Tree.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
+- Remove Outermost Parentheses ([Java](Easy/1078_Remove_Outermost_Parentheses.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
@@ -132,7 +133,7 @@ Total Solved: 117
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 61 |
+| Easy | 62 |
 | Medium | 52 |
 | Hard | 4 |
 
