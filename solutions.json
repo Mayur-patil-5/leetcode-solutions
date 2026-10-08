@@ -1495,6 +1495,19 @@
     "path": "Medium/0897_Prime_Palindrome.java"
   },
   {
+    "problemId": "414",
+    "problemTitle": "Third Maximum Number",
+    "problemSlug": "third-maximum-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "45.2 MB",
+    "submissionId": "2165589115",
+    "timestamp": "1791394742",
+    "path": "Easy/0414_Third_Maximum_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1508,16 +1521,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "414",
-    "problemTitle": "Third Maximum Number",
-    "problemSlug": "third-maximum-number",
+    "problemId": "1078",
+    "problemTitle": "Remove Outermost Parentheses",
+    "problemSlug": "remove-outermost-parentheses",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "45.2 MB",
-    "submissionId": "2165589115",
-    "timestamp": "1791394742",
-    "path": "Easy/0414_Third_Maximum_Number.java"
+    "runtime": "4 ms",
+    "memory": "43.3 MB",
+    "submissionId": "2166476251",
+    "timestamp": "1791474154",
+    "path": "Easy/1078_Remove_Outermost_Parentheses.java"
   }
 ]
