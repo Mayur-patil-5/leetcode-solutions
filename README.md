@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 118
+Total Solved: 119
 
 ## Easy
 
@@ -110,6 +110,7 @@ Total Solved: 118
 - Minimum Add to Make Parentheses Valid ([Java](Medium/0957_Minimum_Add_to_Make_Parentheses_Valid.java))
 - Best Sightseeing Pair ([Java](Medium/1063_Best_Sightseeing_Pair.java))
 - Circle and Rectangle Overlapping ([Java](Medium/1501_Circle_and_Rectangle_Overlapping.java))
+- Count Number of Teams ([Java](Medium/1511_Count_Number_of_Teams.java))
 - Minimum Length of String After Deleting Similar Ends ([Java](Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Find Original Array From Doubled Array ([Java](Medium/2117_Find_Original_Array_From_Doubled_Array.java))
@@ -134,7 +135,7 @@ Total Solved: 118
 | Difficulty | Count |
 |------------|--------|
 | Easy | 62 |
-| Medium | 52 |
+| Medium | 53 |
 | Hard | 4 |
 
 ---
