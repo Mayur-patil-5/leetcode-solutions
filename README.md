@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 119
+Total Solved: 120
 
 ## Easy
 
@@ -102,6 +102,7 @@ Total Solved: 119
 - Next Greater Element II ([Java](Medium/0503_Next_Greater_Element_II.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
 - Valid Square ([Java](Medium/0593_Valid_Square.java))
+- Valid Triangle Number ([Java](Medium/0611_Valid_Triangle_Number.java))
 - Image Overlap ([Java](Medium/0864_Image_Overlap.java))
 - Longest Mountain in Array ([Java](Medium/0875_Longest_Mountain_in_Array.java))
 - Prime Palindrome ([Java](Medium/0897_Prime_Palindrome.java))
@@ -135,7 +136,7 @@ Total Solved: 119
 | Difficulty | Count |
 |------------|--------|
 | Easy | 62 |
-| Medium | 53 |
+| Medium | 54 |
 | Hard | 4 |
 
 ---
