@@ -1521,6 +1521,19 @@
     "path": "Easy/1078_Remove_Outermost_Parentheses.java"
   },
   {
+    "problemId": "1511",
+    "problemTitle": "Count Number of Teams",
+    "problemSlug": "count-number-of-teams",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "15 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2167495811",
+    "timestamp": "1791565081",
+    "path": "Medium/1511_Count_Number_of_Teams.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1534,16 +1547,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1511",
-    "problemTitle": "Count Number of Teams",
-    "problemSlug": "count-number-of-teams",
+    "problemId": "611",
+    "problemTitle": "Valid Triangle Number",
+    "problemSlug": "valid-triangle-number",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "15 ms",
-    "memory": "43.7 MB",
-    "submissionId": "2167495811",
-    "timestamp": "1791565081",
-    "path": "Medium/1511_Count_Number_of_Teams.java"
+    "runtime": "27 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2167509453",
+    "timestamp": "1791565887",
+    "path": "Medium/0611_Valid_Triangle_Number.java"
   }
 ]
