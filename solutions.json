@@ -1508,6 +1508,19 @@
     "path": "Easy/0414_Third_Maximum_Number.java"
   },
   {
+    "problemId": "1078",
+    "problemTitle": "Remove Outermost Parentheses",
+    "problemSlug": "remove-outermost-parentheses",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "43.3 MB",
+    "submissionId": "2166476251",
+    "timestamp": "1791474154",
+    "path": "Easy/1078_Remove_Outermost_Parentheses.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1521,16 +1534,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1078",
-    "problemTitle": "Remove Outermost Parentheses",
-    "problemSlug": "remove-outermost-parentheses",
-    "difficulty": "Easy",
+    "problemId": "1511",
+    "problemTitle": "Count Number of Teams",
+    "problemSlug": "count-number-of-teams",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "4 ms",
-    "memory": "43.3 MB",
-    "submissionId": "2166476251",
-    "timestamp": "1791474154",
-    "path": "Easy/1078_Remove_Outermost_Parentheses.java"
+    "runtime": "2204 ms",
+    "memory": "44.1 MB",
+    "submissionId": "2167494573",
+    "timestamp": "1791565008",
+    "path": "Medium/1511_Count_Number_of_Teams.java"
   }
 ]
