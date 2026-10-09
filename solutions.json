@@ -1540,10 +1540,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "2204 ms",
-    "memory": "44.1 MB",
-    "submissionId": "2167494573",
-    "timestamp": "1791565008",
+    "runtime": "15 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2167495811",
+    "timestamp": "1791565081",
     "path": "Medium/1511_Count_Number_of_Teams.java"
   }
 ]
