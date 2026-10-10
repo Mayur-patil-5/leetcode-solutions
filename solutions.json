@@ -1534,6 +1534,19 @@
     "path": "Medium/1511_Count_Number_of_Teams.java"
   },
   {
+    "problemId": "611",
+    "problemTitle": "Valid Triangle Number",
+    "problemSlug": "valid-triangle-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "27 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2167509453",
+    "timestamp": "1791565887",
+    "path": "Medium/0611_Valid_Triangle_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1547,16 +1560,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "611",
-    "problemTitle": "Valid Triangle Number",
-    "problemSlug": "valid-triangle-number",
-    "difficulty": "Medium",
+    "problemId": "4116",
+    "problemTitle": "Minimum Moves to Equal Array Elements III",
+    "problemSlug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "27 ms",
-    "memory": "45.5 MB",
-    "submissionId": "2167509453",
-    "timestamp": "1791565887",
-    "path": "Medium/0611_Valid_Triangle_Number.java"
+    "runtime": "6 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2168350395",
+    "timestamp": "1791646145",
+    "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.java"
   }
 ]
