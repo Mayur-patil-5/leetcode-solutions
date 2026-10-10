@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 120
+Total Solved: 121
 
 ## Easy
 
@@ -63,6 +63,7 @@ Total Solved: 120
 - Earliest Time to Finish One Task ([Java](Easy/4012_Earliest_Time_to_Finish_One_Task.java))
 - Smallest Missing Multiple of K ([Java](Easy/4080_Smallest_Missing_Multiple_of_K.java))
 - Find Missing Elements ([Java](Easy/4107_Find_Missing_Elements.java))
+- Minimum Moves to Equal Array Elements III ([Java](Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.java))
 - Count Commas in Range ([Java](Easy/4245_Count_Commas_in_Range.java))
 - Construct Uniform Parity Array I ([Java](Easy/4256_Construct_Uniform_Parity_Array_I.java))
 - Smallest Stable Index I ([Java](Easy/4284_Smallest_Stable_Index_I.java))
@@ -135,7 +136,7 @@ Total Solved: 120
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 62 |
+| Easy | 63 |
 | Medium | 54 |
 | Hard | 4 |
 
