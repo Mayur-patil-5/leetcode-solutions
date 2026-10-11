@@ -1547,6 +1547,19 @@
     "path": "Medium/0611_Valid_Triangle_Number.java"
   },
   {
+    "problemId": "4116",
+    "problemTitle": "Minimum Moves to Equal Array Elements III",
+    "problemSlug": "minimum-moves-to-equal-array-elements-iii",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2168350395",
+    "timestamp": "1791646145",
+    "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1560,16 +1573,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4116",
-    "problemTitle": "Minimum Moves to Equal Array Elements III",
-    "problemSlug": "minimum-moves-to-equal-array-elements-iii",
+    "problemId": "2844",
+    "problemTitle": "Sum of Squares of Special Elements ",
+    "problemSlug": "sum-of-squares-of-special-elements",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "46.7 MB",
-    "submissionId": "2168350395",
-    "timestamp": "1791646145",
-    "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.java"
+    "runtime": "1 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2169313845",
+    "timestamp": "1791726302",
+    "path": "Easy/2844_Sum_of_Squares_of_Special_Elements_.java"
   }
 ]
