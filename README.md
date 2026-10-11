@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 121
+Total Solved: 122
 
 ## Easy
 
@@ -47,6 +47,7 @@ Total Solved: 121
 - Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
+- Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
@@ -136,7 +137,7 @@ Total Solved: 121
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 63 |
+| Easy | 64 |
 | Medium | 54 |
 | Hard | 4 |
 
