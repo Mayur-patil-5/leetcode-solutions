@@ -1573,6 +1573,19 @@
     "path": "Easy/2844_Sum_of_Squares_of_Special_Elements_.java"
   },
   {
+    "problemId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "45.8 MB",
+    "submissionId": "2169735649",
+    "timestamp": "1791767457",
+    "path": "Medium/0039_Combination_Sum.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1586,16 +1599,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "39",
-    "problemTitle": "Combination Sum",
-    "problemSlug": "combination-sum",
+    "problemId": "238",
+    "problemTitle": "Product of Array Except Self",
+    "problemSlug": "product-of-array-except-self",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "45.8 MB",
-    "submissionId": "2169735649",
-    "timestamp": "1791767457",
-    "path": "Medium/0039_Combination_Sum.java"
+    "runtime": "1 ms",
+    "memory": "72.3 MB",
+    "submissionId": "2170250160",
+    "timestamp": "1791814406",
+    "path": "Medium/0238_Product_of_Array_Except_Self.java"
   }
 ]
