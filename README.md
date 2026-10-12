@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 123
+Total Solved: 124
 
 ## Easy
 
@@ -97,6 +97,7 @@ Total Solved: 123
 - Majority Element II ([Java](Medium/0229_Majority_Element_II.java))
 - Lowest Common Ancestor of a Binary Tree ([Java](Medium/0236_Lowest_Common_Ancestor_of_a_Binary_Tree.java))
 - Delete Node in a Linked List ([Java](Medium/0237_Delete_Node_in_a_Linked_List.java))
+- Product of Array Except Self ([Java](Medium/0238_Product_of_Array_Except_Self.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Bulb Switcher ([Java](Medium/0319_Bulb_Switcher.java))
 - Odd Even Linked List ([Java](Medium/0328_Odd_Even_Linked_List.java))
@@ -139,7 +140,7 @@ Total Solved: 123
 | Difficulty | Count |
 |------------|--------|
 | Easy | 64 |
-| Medium | 55 |
+| Medium | 56 |
 | Hard | 4 |
 
 ---
