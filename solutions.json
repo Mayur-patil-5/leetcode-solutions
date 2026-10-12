@@ -1560,6 +1560,19 @@
     "path": "Easy/4116_Minimum_Moves_to_Equal_Array_Elements_III.java"
   },
   {
+    "problemId": "2844",
+    "problemTitle": "Sum of Squares of Special Elements ",
+    "problemSlug": "sum-of-squares-of-special-elements",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2169313845",
+    "timestamp": "1791726302",
+    "path": "Easy/2844_Sum_of_Squares_of_Special_Elements_.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1573,16 +1586,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2844",
-    "problemTitle": "Sum of Squares of Special Elements ",
-    "problemSlug": "sum-of-squares-of-special-elements",
-    "difficulty": "Easy",
+    "problemId": "39",
+    "problemTitle": "Combination Sum",
+    "problemSlug": "combination-sum",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "46.6 MB",
-    "submissionId": "2169313845",
-    "timestamp": "1791726302",
-    "path": "Easy/2844_Sum_of_Squares_of_Special_Elements_.java"
+    "runtime": "2 ms",
+    "memory": "45.8 MB",
+    "submissionId": "2169735649",
+    "timestamp": "1791767457",
+    "path": "Medium/0039_Combination_Sum.java"
   }
 ]
