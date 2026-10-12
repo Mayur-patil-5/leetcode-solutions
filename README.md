@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 122
+Total Solved: 123
 
 ## Easy
 
@@ -75,6 +75,7 @@ Total Solved: 122
 - Reverse Integer ([Java](Medium/0007_Reverse_Integer.java))
 - 3Sum ([Java](Medium/0015_3Sum.java))
 - Find First and Last Position of Element in Sorted Array ([Java](Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java))
+- Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Pow(x, n) ([Java](Medium/0050_Powx_n.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Search a 2D Matrix ([Java](Medium/0074_Search_a_2D_Matrix.java))
@@ -138,7 +139,7 @@ Total Solved: 122
 | Difficulty | Count |
 |------------|--------|
 | Easy | 64 |
-| Medium | 54 |
+| Medium | 55 |
 | Hard | 4 |
 
 ---
