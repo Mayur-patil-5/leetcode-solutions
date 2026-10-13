@@ -1586,6 +1586,19 @@
     "path": "Medium/0039_Combination_Sum.java"
   },
   {
+    "problemId": "238",
+    "problemTitle": "Product of Array Except Self",
+    "problemSlug": "product-of-array-except-self",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "72.3 MB",
+    "submissionId": "2170250160",
+    "timestamp": "1791814406",
+    "path": "Medium/0238_Product_of_Array_Except_Self.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1599,16 +1612,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "238",
-    "problemTitle": "Product of Array Except Self",
-    "problemSlug": "product-of-array-except-self",
+    "problemId": "4078",
+    "problemTitle": "Maximum Alternating Sum of Squares",
+    "problemSlug": "maximum-alternating-sum-of-squares",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "72.3 MB",
-    "submissionId": "2170250160",
-    "timestamp": "1791814406",
-    "path": "Medium/0238_Product_of_Array_Except_Self.java"
+    "runtime": "32 ms",
+    "memory": "134.8 MB",
+    "submissionId": "2171282752",
+    "timestamp": "1791903138",
+    "path": "Medium/4078_Maximum_Alternating_Sum_of_Squares.java"
   }
 ]
