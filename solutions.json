@@ -1599,6 +1599,19 @@
     "path": "Medium/0238_Product_of_Array_Except_Self.java"
   },
   {
+    "problemId": "4078",
+    "problemTitle": "Maximum Alternating Sum of Squares",
+    "problemSlug": "maximum-alternating-sum-of-squares",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "32 ms",
+    "memory": "134.8 MB",
+    "submissionId": "2171282752",
+    "timestamp": "1791903138",
+    "path": "Medium/4078_Maximum_Alternating_Sum_of_Squares.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1612,16 +1625,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "4078",
-    "problemTitle": "Maximum Alternating Sum of Squares",
-    "problemSlug": "maximum-alternating-sum-of-squares",
+    "problemId": "4084",
+    "problemTitle": "Maximize Sum of Squares of Digits",
+    "problemSlug": "maximize-sum-of-squares-of-digits",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "32 ms",
-    "memory": "134.8 MB",
-    "submissionId": "2171282752",
-    "timestamp": "1791903138",
-    "path": "Medium/4078_Maximum_Alternating_Sum_of_Squares.java"
+    "runtime": "94 ms",
+    "memory": "47.8 MB",
+    "submissionId": "2172459002",
+    "timestamp": "1792004355",
+    "path": "Medium/4084_Maximize_Sum_of_Squares_of_Digits.java"
   }
 ]
