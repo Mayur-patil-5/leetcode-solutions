@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 125
+Total Solved: 126
 
 ## Easy
 
@@ -125,6 +125,7 @@ Total Solved: 125
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
+- Maximize Sum of Squares of Digits ([Java](Medium/4084_Maximize_Sum_of_Squares_of_Digits.java))
 - Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
 - Construct Uniform Parity Array II ([Java](Medium/4258_Construct_Uniform_Parity_Array_II.java))
 - Smallest Stable Index II ([Java](Medium/4285_Smallest_Stable_Index_II.java))
@@ -141,7 +142,7 @@ Total Solved: 125
 | Difficulty | Count |
 |------------|--------|
 | Easy | 64 |
-| Medium | 57 |
+| Medium | 58 |
 | Hard | 4 |
 
 ---
