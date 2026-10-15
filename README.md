@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 127
+Total Solved: 128
 
 ## Easy
 
@@ -43,6 +43,7 @@ Total Solved: 127
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
+- Shuffle String ([Java](Easy/1651_Shuffle_String.java))
 - Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
 - Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
@@ -142,7 +143,7 @@ Total Solved: 127
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 65 |
+| Easy | 66 |
 | Medium | 58 |
 | Hard | 4 |
 
