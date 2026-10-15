@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 126
+Total Solved: 127
 
 ## Easy
 
@@ -48,6 +48,7 @@ Total Solved: 126
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
+- Subarrays Distinct Element Sum of Squares I ([Java](Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
@@ -141,7 +142,7 @@ Total Solved: 126
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 64 |
+| Easy | 65 |
 | Medium | 58 |
 | Hard | 4 |
 
