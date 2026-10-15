@@ -1625,6 +1625,19 @@
     "path": "Medium/4084_Maximize_Sum_of_Squares_of_Digits.java"
   },
   {
+    "problemId": "3163",
+    "problemTitle": "Subarrays Distinct Element Sum of Squares I",
+    "problemSlug": "subarrays-distinct-element-sum-of-squares-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "44.9 MB",
+    "submissionId": "2173152493",
+    "timestamp": "1792079339",
+    "path": "Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1638,16 +1651,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3163",
-    "problemTitle": "Subarrays Distinct Element Sum of Squares I",
-    "problemSlug": "subarrays-distinct-element-sum-of-squares-i",
+    "problemId": "1651",
+    "problemTitle": "Shuffle String",
+    "problemSlug": "shuffle-string",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "5 ms",
-    "memory": "44.9 MB",
-    "submissionId": "2173152493",
-    "timestamp": "1792079339",
-    "path": "Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java"
+    "runtime": "1 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2173159838",
+    "timestamp": "1792079863",
+    "path": "Easy/1651_Shuffle_String.java"
   }
 ]
