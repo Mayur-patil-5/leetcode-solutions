@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 128
+Total Solved: 129
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 128
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
 - Remove Element ([Java](Easy/0027_Remove_Element.java))
 - Find the Index of the First Occurrence in a String ([Java](Easy/0028_Find_the_Index_of_the_First_Occurrence_in_a_String.java))
+- Search Insert Position ([Java](Easy/0035_Search_Insert_Position.java))
 - Length of Last Word ([Java](Easy/0058_Length_of_Last_Word.java))
 - Plus One ([Java](Easy/0066_Plus_One.java))
 - Sqrt(x) ([Java](Easy/0069_Sqrtx.java))
@@ -143,7 +144,7 @@ Total Solved: 128
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 66 |
+| Easy | 67 |
 | Medium | 58 |
 | Hard | 4 |
 
