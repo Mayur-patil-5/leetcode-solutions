@@ -1651,6 +1651,19 @@
     "path": "Easy/1651_Shuffle_String.java"
   },
   {
+    "problemId": "35",
+    "problemTitle": "Search Insert Position",
+    "problemSlug": "search-insert-position",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "44.2 MB",
+    "submissionId": "2174074266",
+    "timestamp": "1792174376",
+    "path": "Easy/0035_Search_Insert_Position.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1664,16 +1677,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "35",
-    "problemTitle": "Search Insert Position",
-    "problemSlug": "search-insert-position",
-    "difficulty": "Easy",
+    "problemId": "3847",
+    "problemTitle": "Minimum Swaps to Sort by Digit Sum",
+    "problemSlug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "44.2 MB",
-    "submissionId": "2174074266",
-    "timestamp": "1792174376",
-    "path": "Easy/0035_Search_Insert_Position.java"
+    "runtime": "250 ms",
+    "memory": "119.4 MB",
+    "submissionId": "2174617707",
+    "timestamp": "1792246338",
+    "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java"
   }
 ]
