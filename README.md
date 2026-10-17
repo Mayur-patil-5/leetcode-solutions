@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 129
+Total Solved: 130
 
 ## Easy
 
@@ -127,6 +127,7 @@ Total Solved: 129
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
+- Minimum Swaps to Sort by Digit Sum ([Java](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
 - Maximize Sum of Squares of Digits ([Java](Medium/4084_Maximize_Sum_of_Squares_of_Digits.java))
 - Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
@@ -145,7 +146,7 @@ Total Solved: 129
 | Difficulty | Count |
 |------------|--------|
 | Easy | 67 |
-| Medium | 58 |
+| Medium | 59 |
 | Hard | 4 |
 
 ---
