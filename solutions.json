@@ -1690,6 +1690,19 @@
     "path": "Medium/0053_Maximum_Subarray.java"
   },
   {
+    "problemId": "434",
+    "problemTitle": "Number of Segments in a String",
+    "problemSlug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2175475215",
+    "timestamp": "1792334978",
+    "path": "Easy/0434_Number_of_Segments_in_a_String.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1703,16 +1716,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "434",
-    "problemTitle": "Number of Segments in a String",
-    "problemSlug": "number-of-segments-in-a-string",
-    "difficulty": "Easy",
+    "problemId": "2481",
+    "problemTitle": "Strictly Palindromic Number",
+    "problemSlug": "strictly-palindromic-number",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
     "runtime": "0 ms",
-    "memory": "42 MB",
-    "submissionId": "2175475215",
-    "timestamp": "1792334978",
-    "path": "Easy/0434_Number_of_Segments_in_a_String.java"
+    "memory": "41.7 MB",
+    "submissionId": "2175482646",
+    "timestamp": "1792335611",
+    "path": "Medium/2481_Strictly_Palindromic_Number.java"
   }
 ]
