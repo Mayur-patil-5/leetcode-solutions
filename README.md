@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 132
+Total Solved: 133
 
 ## Easy
 
@@ -128,6 +128,7 @@ Total Solved: 132
 - Count Nodes Equal to Average of Subtree ([Java](Medium/2347_Count_Nodes_Equal_to_Average_of_Subtree.java))
 - Minimum Rounds to Complete All Tasks ([Java](Medium/2362_Minimum_Rounds_to_Complete_All_Tasks.java))
 - Max Sum of a Pair With Equal Sum of Digits ([Java](Medium/2473_Max_Sum_of_a_Pair_With_Equal_Sum_of_Digits.java))
+- Strictly Palindromic Number ([Java](Medium/2481_Strictly_Palindromic_Number.java))
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Minimum Swaps to Sort by Digit Sum ([Java](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
@@ -148,7 +149,7 @@ Total Solved: 132
 | Difficulty | Count |
 |------------|--------|
 | Easy | 68 |
-| Medium | 60 |
+| Medium | 61 |
 | Hard | 4 |
 
 ---
