@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 133
+Total Solved: 134
 
 ## Easy
 
@@ -93,6 +93,7 @@ Total Solved: 133
 - Reverse Words in a String ([Java](Medium/0151_Reverse_Words_in_a_String.java))
 - Find Peak Element ([Java](Medium/0162_Find_Peak_Element.java))
 - Maximum Gap ([Java](Medium/0164_Maximum_Gap.java))
+- Two Sum II - Input Array Is Sorted ([Java](Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.java))
 - Rank Scores ([MySQL](Medium/0178_Rank_Scores.sql))
 - Largest Number ([Java](Medium/0179_Largest_Number.java))
 - Rotate Array ([Java](Medium/0189_Rotate_Array.java))
@@ -149,7 +150,7 @@ Total Solved: 133
 | Difficulty | Count |
 |------------|--------|
 | Easy | 68 |
-| Medium | 61 |
+| Medium | 62 |
 | Hard | 4 |
 
 ---
