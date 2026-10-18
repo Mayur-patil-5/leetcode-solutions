@@ -1664,6 +1664,19 @@
     "path": "Easy/0035_Search_Insert_Position.java"
   },
   {
+    "problemId": "3847",
+    "problemTitle": "Minimum Swaps to Sort by Digit Sum",
+    "problemSlug": "minimum-swaps-to-sort-by-digit-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "250 ms",
+    "memory": "119.4 MB",
+    "submissionId": "2174617707",
+    "timestamp": "1792246338",
+    "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1677,16 +1690,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3847",
-    "problemTitle": "Minimum Swaps to Sort by Digit Sum",
-    "problemSlug": "minimum-swaps-to-sort-by-digit-sum",
+    "problemId": "53",
+    "problemTitle": "Maximum Subarray",
+    "problemSlug": "maximum-subarray",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "250 ms",
-    "memory": "119.4 MB",
-    "submissionId": "2174617707",
-    "timestamp": "1792246338",
-    "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java"
+    "runtime": "1 ms",
+    "memory": "77.2 MB",
+    "submissionId": "2175044491",
+    "timestamp": "1792293829",
+    "path": "Medium/0053_Maximum_Subarray.java"
   }
 ]
