@@ -1703,6 +1703,19 @@
     "path": "Easy/0434_Number_of_Segments_in_a_String.java"
   },
   {
+    "problemId": "2481",
+    "problemTitle": "Strictly Palindromic Number",
+    "problemSlug": "strictly-palindromic-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.7 MB",
+    "submissionId": "2175482646",
+    "timestamp": "1792335611",
+    "path": "Medium/2481_Strictly_Palindromic_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1716,16 +1729,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2481",
-    "problemTitle": "Strictly Palindromic Number",
-    "problemSlug": "strictly-palindromic-number",
+    "problemId": "167",
+    "problemTitle": "Two Sum II - Input Array Is Sorted",
+    "problemSlug": "two-sum-ii-input-array-is-sorted",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "41.7 MB",
-    "submissionId": "2175482646",
-    "timestamp": "1792335611",
-    "path": "Medium/2481_Strictly_Palindromic_Number.java"
+    "runtime": "2 ms",
+    "memory": "47.8 MB",
+    "submissionId": "2175649703",
+    "timestamp": "1792347899",
+    "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.java"
   }
 ]
