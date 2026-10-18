@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 130
+Total Solved: 131
 
 ## Easy
 
@@ -80,6 +80,7 @@ Total Solved: 130
 - Find First and Last Position of Element in Sorted Array ([Java](Medium/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array.java))
 - Combination Sum ([Java](Medium/0039_Combination_Sum.java))
 - Pow(x, n) ([Java](Medium/0050_Powx_n.java))
+- Maximum Subarray ([Java](Medium/0053_Maximum_Subarray.java))
 - Jump Game ([Java](Medium/0055_Jump_Game.java))
 - Search a 2D Matrix ([Java](Medium/0074_Search_a_2D_Matrix.java))
 - Sort Colors ([Java](Medium/0075_Sort_Colors.java))
@@ -146,7 +147,7 @@ Total Solved: 130
 | Difficulty | Count |
 |------------|--------|
 | Easy | 67 |
-| Medium | 59 |
+| Medium | 60 |
 | Hard | 4 |
 
 ---
