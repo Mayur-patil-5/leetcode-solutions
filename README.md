@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 131
+Total Solved: 132
 
 ## Easy
 
@@ -29,6 +29,7 @@ Total Solved: 131
 - Move Zeroes ([Java](Easy/0283_Move_Zeroes.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Third Maximum Number ([Java](Easy/0414_Third_Maximum_Number.java))
+- Number of Segments in a String ([Java](Easy/0434_Number_of_Segments_in_a_String.java))
 - Max Consecutive Ones ([Java](Easy/0485_Max_Consecutive_Ones.java))
 - Diameter of Binary Tree ([Java](Easy/0543_Diameter_of_Binary_Tree.java))
 - Student Attendance Record I ([Java](Easy/0551_Student_Attendance_Record_I.java))
@@ -146,7 +147,7 @@ Total Solved: 131
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 67 |
+| Easy | 68 |
 | Medium | 60 |
 | Hard | 4 |
 
