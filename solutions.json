@@ -1677,6 +1677,19 @@
     "path": "Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java"
   },
   {
+    "problemId": "53",
+    "problemTitle": "Maximum Subarray",
+    "problemSlug": "maximum-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "77.2 MB",
+    "submissionId": "2175044491",
+    "timestamp": "1792293829",
+    "path": "Medium/0053_Maximum_Subarray.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1690,16 +1703,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "53",
-    "problemTitle": "Maximum Subarray",
-    "problemSlug": "maximum-subarray",
-    "difficulty": "Medium",
+    "problemId": "434",
+    "problemTitle": "Number of Segments in a String",
+    "problemSlug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "77.2 MB",
-    "submissionId": "2175044491",
-    "timestamp": "1792293829",
-    "path": "Medium/0053_Maximum_Subarray.java"
+    "runtime": "0 ms",
+    "memory": "42 MB",
+    "submissionId": "2175475215",
+    "timestamp": "1792334978",
+    "path": "Easy/0434_Number_of_Segments_in_a_String.java"
   }
 ]
