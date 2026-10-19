@@ -1716,6 +1716,19 @@
     "path": "Medium/2481_Strictly_Palindromic_Number.java"
   },
   {
+    "problemId": "167",
+    "problemTitle": "Two Sum II - Input Array Is Sorted",
+    "problemSlug": "two-sum-ii-input-array-is-sorted",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "47.8 MB",
+    "submissionId": "2175649703",
+    "timestamp": "1792347899",
+    "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1729,16 +1742,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "167",
-    "problemTitle": "Two Sum II - Input Array Is Sorted",
-    "problemSlug": "two-sum-ii-input-array-is-sorted",
-    "difficulty": "Medium",
+    "problemId": "2210",
+    "problemTitle": "Find Target Indices After Sorting Array",
+    "problemSlug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "47.8 MB",
-    "submissionId": "2175649703",
-    "timestamp": "1792347899",
-    "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.java"
+    "runtime": "7 ms",
+    "memory": "50.1 MB",
+    "submissionId": "2175864196",
+    "timestamp": "1792382069",
+    "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.java"
   }
 ]
