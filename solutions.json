@@ -1729,6 +1729,19 @@
     "path": "Medium/0167_Two_Sum_II_-_Input_Array_Is_Sorted.java"
   },
   {
+    "problemId": "2210",
+    "problemTitle": "Find Target Indices After Sorting Array",
+    "problemSlug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "50.1 MB",
+    "submissionId": "2175864196",
+    "timestamp": "1792382069",
+    "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1742,16 +1755,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2210",
-    "problemTitle": "Find Target Indices After Sorting Array",
-    "problemSlug": "find-target-indices-after-sorting-array",
+    "problemId": "263",
+    "problemTitle": "Ugly Number",
+    "problemSlug": "ugly-number",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "50.1 MB",
-    "submissionId": "2175864196",
-    "timestamp": "1792382069",
-    "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.java"
+    "runtime": "1 ms",
+    "memory": "42.2 MB",
+    "submissionId": "2176956806",
+    "timestamp": "1792490853",
+    "path": "Easy/0263_Ugly_Number.java"
   }
 ]
