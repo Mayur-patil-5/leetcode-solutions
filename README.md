@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 135
+Total Solved: 136
 
 ## Easy
 
@@ -24,6 +24,7 @@ Total Solved: 135
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Contains Duplicate ([Java](Easy/0217_Contains_Duplicate.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
+- Ugly Number ([Java](Easy/0263_Ugly_Number.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
 - First Bad Version ([Java](Easy/0278_First_Bad_Version.java))
 - Move Zeroes ([Java](Easy/0283_Move_Zeroes.java))
@@ -150,7 +151,7 @@ Total Solved: 135
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 69 |
+| Easy | 70 |
 | Medium | 62 |
 | Hard | 4 |
 
