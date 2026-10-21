@@ -1742,6 +1742,19 @@
     "path": "Easy/2210_Find_Target_Indices_After_Sorting_Array.java"
   },
   {
+    "problemId": "263",
+    "problemTitle": "Ugly Number",
+    "problemSlug": "ugly-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.2 MB",
+    "submissionId": "2176956806",
+    "timestamp": "1792490853",
+    "path": "Easy/0263_Ugly_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1755,16 +1768,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "263",
-    "problemTitle": "Ugly Number",
-    "problemSlug": "ugly-number",
+    "problemId": "2195",
+    "problemTitle": "Time Needed to Buy Tickets",
+    "problemSlug": "time-needed-to-buy-tickets",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "42.2 MB",
-    "submissionId": "2176956806",
-    "timestamp": "1792490853",
-    "path": "Easy/0263_Ugly_Number.java"
+    "runtime": "0 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2177844635",
+    "timestamp": "1792578470",
+    "path": "Easy/2195_Time_Needed_to_Buy_Tickets.java"
   }
 ]
