@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 136
+Total Solved: 137
 
 ## Easy
 
@@ -49,6 +49,7 @@ Total Solved: 136
 - Shuffle String ([Java](Easy/1651_Shuffle_String.java))
 - Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
 - Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
+- Time Needed to Buy Tickets ([Java](Easy/2195_Time_Needed_to_Buy_Tickets.java))
 - Find Target Indices After Sorting Array ([Java](Easy/2210_Find_Target_Indices_After_Sorting_Array.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
@@ -151,7 +152,7 @@ Total Solved: 136
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 70 |
+| Easy | 71 |
 | Medium | 62 |
 | Hard | 4 |
 
