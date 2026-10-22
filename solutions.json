@@ -1768,6 +1768,19 @@
     "path": "Easy/2195_Time_Needed_to_Buy_Tickets.java"
   },
   {
+    "problemId": "2610",
+    "problemTitle": "Closest Prime Numbers in Range",
+    "problemSlug": "closest-prime-numbers-in-range",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1091 ms",
+    "memory": "41.9 MB",
+    "submissionId": "2178682250",
+    "timestamp": "1792660890",
+    "path": "Medium/2610_Closest_Prime_Numbers_in_Range.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1781,16 +1794,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2610",
-    "problemTitle": "Closest Prime Numbers in Range",
-    "problemSlug": "closest-prime-numbers-in-range",
-    "difficulty": "Medium",
+    "problemId": "2630",
+    "problemTitle": "Alternating Digit Sum",
+    "problemSlug": "alternating-digit-sum",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "1091 ms",
-    "memory": "41.9 MB",
-    "submissionId": "2178682250",
-    "timestamp": "1792660890",
-    "path": "Medium/2610_Closest_Prime_Numbers_in_Range.java"
+    "runtime": "0 ms",
+    "memory": "41.5 MB",
+    "submissionId": "2178827215",
+    "timestamp": "1792675057",
+    "path": "Easy/2630_Alternating_Digit_Sum.java"
   }
 ]
