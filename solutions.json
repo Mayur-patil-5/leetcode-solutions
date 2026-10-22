@@ -1755,6 +1755,19 @@
     "path": "Easy/0263_Ugly_Number.java"
   },
   {
+    "problemId": "2195",
+    "problemTitle": "Time Needed to Buy Tickets",
+    "problemSlug": "time-needed-to-buy-tickets",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2177844635",
+    "timestamp": "1792578470",
+    "path": "Easy/2195_Time_Needed_to_Buy_Tickets.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1768,16 +1781,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2195",
-    "problemTitle": "Time Needed to Buy Tickets",
-    "problemSlug": "time-needed-to-buy-tickets",
-    "difficulty": "Easy",
+    "problemId": "2610",
+    "problemTitle": "Closest Prime Numbers in Range",
+    "problemSlug": "closest-prime-numbers-in-range",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.4 MB",
-    "submissionId": "2177844635",
-    "timestamp": "1792578470",
-    "path": "Easy/2195_Time_Needed_to_Buy_Tickets.java"
+    "runtime": "1091 ms",
+    "memory": "41.9 MB",
+    "submissionId": "2178682250",
+    "timestamp": "1792660890",
+    "path": "Medium/2610_Closest_Prime_Numbers_in_Range.java"
   }
 ]
