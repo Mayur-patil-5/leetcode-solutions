@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 138
+Total Solved: 139
 
 ## Easy
 
@@ -52,6 +52,7 @@ Total Solved: 138
 - Time Needed to Buy Tickets ([Java](Easy/2195_Time_Needed_to_Buy_Tickets.java))
 - Find Target Indices After Sorting Array ([Java](Easy/2210_Find_Target_Indices_After_Sorting_Array.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
+- Alternating Digit Sum ([Java](Easy/2630_Alternating_Digit_Sum.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
 - Subarrays Distinct Element Sum of Squares I ([Java](Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java))
@@ -153,7 +154,7 @@ Total Solved: 138
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 71 |
+| Easy | 72 |
 | Medium | 63 |
 | Hard | 4 |
 
