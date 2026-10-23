@@ -1781,6 +1781,19 @@
     "path": "Medium/2610_Closest_Prime_Numbers_in_Range.java"
   },
   {
+    "problemId": "2630",
+    "problemTitle": "Alternating Digit Sum",
+    "problemSlug": "alternating-digit-sum",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.5 MB",
+    "submissionId": "2178827215",
+    "timestamp": "1792675057",
+    "path": "Easy/2630_Alternating_Digit_Sum.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1794,16 +1807,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2630",
-    "problemTitle": "Alternating Digit Sum",
-    "problemSlug": "alternating-digit-sum",
-    "difficulty": "Easy",
+    "problemId": "3950",
+    "problemTitle": "Maximum K to Sort a Permutation",
+    "problemSlug": "maximum-k-to-sort-a-permutation",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "41.5 MB",
-    "submissionId": "2178827215",
-    "timestamp": "1792675057",
-    "path": "Easy/2630_Alternating_Digit_Sum.java"
+    "runtime": "2 ms",
+    "memory": "110.3 MB",
+    "submissionId": "2179674365",
+    "timestamp": "1792761487",
+    "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.java"
   }
 ]
