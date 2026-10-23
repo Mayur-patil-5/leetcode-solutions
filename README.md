@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 139
+Total Solved: 140
 
 ## Easy
 
@@ -137,6 +137,7 @@ Total Solved: 139
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Closest Prime Numbers in Range ([Java](Medium/2610_Closest_Prime_Numbers_in_Range.java))
 - Minimum Swaps to Sort by Digit Sum ([Java](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java))
+- Maximum K to Sort a Permutation ([Java](Medium/3950_Maximum_K_to_Sort_a_Permutation.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
 - Maximize Sum of Squares of Digits ([Java](Medium/4084_Maximize_Sum_of_Squares_of_Digits.java))
 - Count Commas in Range II ([Java](Medium/4248_Count_Commas_in_Range_II.java))
@@ -155,7 +156,7 @@ Total Solved: 139
 | Difficulty | Count |
 |------------|--------|
 | Easy | 72 |
-| Medium | 63 |
+| Medium | 64 |
 | Hard | 4 |
 
 ---
