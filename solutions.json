@@ -1794,6 +1794,19 @@
     "path": "Easy/2630_Alternating_Digit_Sum.java"
   },
   {
+    "problemId": "3950",
+    "problemTitle": "Maximum K to Sort a Permutation",
+    "problemSlug": "maximum-k-to-sort-a-permutation",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "110.3 MB",
+    "submissionId": "2179674365",
+    "timestamp": "1792761487",
+    "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1807,16 +1820,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3950",
-    "problemTitle": "Maximum K to Sort a Permutation",
-    "problemSlug": "maximum-k-to-sort-a-permutation",
-    "difficulty": "Medium",
+    "problemId": "2496",
+    "problemTitle": "Count Days Spent Together",
+    "problemSlug": "count-days-spent-together",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "110.3 MB",
-    "submissionId": "2179674365",
-    "timestamp": "1792761487",
-    "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.java"
+    "runtime": "0 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2180134636",
+    "timestamp": "1792816602",
+    "path": "Easy/2496_Count_Days_Spent_Together.java"
   }
 ]
