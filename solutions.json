@@ -1807,6 +1807,19 @@
     "path": "Medium/3950_Maximum_K_to_Sort_a_Permutation.java"
   },
   {
+    "problemId": "2496",
+    "problemTitle": "Count Days Spent Together",
+    "problemSlug": "count-days-spent-together",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.3 MB",
+    "submissionId": "2180134636",
+    "timestamp": "1792816602",
+    "path": "Easy/2496_Count_Days_Spent_Together.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1820,16 +1833,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2496",
-    "problemTitle": "Count Days Spent Together",
-    "problemSlug": "count-days-spent-together",
+    "problemId": "2857",
+    "problemTitle": "Total Distance Traveled",
+    "problemSlug": "total-distance-traveled",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.3 MB",
-    "submissionId": "2180134636",
-    "timestamp": "1792816602",
-    "path": "Easy/2496_Count_Days_Spent_Together.java"
+    "runtime": "16 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2181423883",
+    "timestamp": "1792935617",
+    "path": "Easy/2857_Total_Distance_Traveled.java"
   }
 ]
