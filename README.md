@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 141
+Total Solved: 142
 
 ## Easy
 
@@ -56,6 +56,7 @@ Total Solved: 141
 - Alternating Digit Sum ([Java](Easy/2630_Alternating_Digit_Sum.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
+- Total Distance Traveled ([Java](Easy/2857_Total_Distance_Traveled.java))
 - Subarrays Distinct Element Sum of Squares I ([Java](Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java))
 - Find Missing and Repeated Values ([Java](Easy/3227_Find_Missing_and_Repeated_Values.java))
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
@@ -156,7 +157,7 @@ Total Solved: 141
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 73 |
+| Easy | 74 |
 | Medium | 64 |
 | Hard | 4 |
 
