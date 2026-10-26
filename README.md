@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 142
+Total Solved: 143
 
 ## Easy
 
@@ -36,6 +36,7 @@ Total Solved: 142
 - Student Attendance Record I ([Java](Easy/0551_Student_Attendance_Record_I.java))
 - Maximum Product of Three Numbers ([Java](Easy/0628_Maximum_Product_of_Three_Numbers.java))
 - To Lower Case ([Java](Easy/0742_To_Lower_Case.java))
+- Largest Number At Least Twice of Others ([Java](Easy/0748_Largest_Number_At_Least_Twice_of_Others.java))
 - Rectangle Overlap ([Java](Easy/0866_Rectangle_Overlap.java))
 - Univalued Binary Tree ([Java](Easy/1005_Univalued_Binary_Tree.java))
 - Fibonacci Number ([Java](Easy/1013_Fibonacci_Number.java))
@@ -157,7 +158,7 @@ Total Solved: 142
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 74 |
+| Easy | 75 |
 | Medium | 64 |
 | Hard | 4 |
 
