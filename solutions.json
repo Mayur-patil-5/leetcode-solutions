@@ -1846,6 +1846,19 @@
     "path": "Easy/0748_Largest_Number_At_Least_Twice_of_Others.java"
   },
   {
+    "problemId": "205",
+    "problemTitle": "Isomorphic Strings",
+    "problemSlug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "43.5 MB",
+    "submissionId": "2183208187",
+    "timestamp": "1793115685",
+    "path": "Easy/0205_Isomorphic_Strings.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1859,16 +1872,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "205",
-    "problemTitle": "Isomorphic Strings",
-    "problemSlug": "isomorphic-strings",
+    "problemId": "1878",
+    "problemTitle": "Check if Array Is Sorted and Rotated",
+    "problemSlug": "check-if-array-is-sorted-and-rotated",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "5 ms",
-    "memory": "43.5 MB",
-    "submissionId": "2183208187",
-    "timestamp": "1793115685",
-    "path": "Easy/0205_Isomorphic_Strings.java"
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2183960871",
+    "timestamp": "1793196309",
+    "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java"
   }
 ]
