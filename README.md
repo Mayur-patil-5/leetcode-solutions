@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 144
+Total Solved: 145
 
 ## Easy
 
@@ -50,6 +50,7 @@ Total Solved: 144
 - Number of Good Pairs ([Java](Easy/1635_Number_of_Good_Pairs.java))
 - Shuffle String ([Java](Easy/1651_Shuffle_String.java))
 - Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
+- Check if Array Is Sorted and Rotated ([Java](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java))
 - Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
 - Time Needed to Buy Tickets ([Java](Easy/2195_Time_Needed_to_Buy_Tickets.java))
 - Find Target Indices After Sorting Array ([Java](Easy/2210_Find_Target_Indices_After_Sorting_Array.java))
@@ -159,7 +160,7 @@ Total Solved: 144
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 76 |
+| Easy | 77 |
 | Medium | 64 |
 | Hard | 4 |
 
