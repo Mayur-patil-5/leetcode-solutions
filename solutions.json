@@ -1859,6 +1859,19 @@
     "path": "Easy/0205_Isomorphic_Strings.java"
   },
   {
+    "problemId": "1878",
+    "problemTitle": "Check if Array Is Sorted and Rotated",
+    "problemSlug": "check-if-array-is-sorted-and-rotated",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2183960871",
+    "timestamp": "1793196309",
+    "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1872,16 +1885,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1878",
-    "problemTitle": "Check if Array Is Sorted and Rotated",
-    "problemSlug": "check-if-array-is-sorted-and-rotated",
+    "problemId": "2053",
+    "problemTitle": "Check if All Characters Have Equal Number of Occurrences",
+    "problemSlug": "check-if-all-characters-have-equal-number-of-occurrences",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.1 MB",
-    "submissionId": "2183960871",
-    "timestamp": "1793196309",
-    "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java"
+    "runtime": "2 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2184710889",
+    "timestamp": "1793278339",
+    "path": "Easy/2053_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.java"
   }
 ]
