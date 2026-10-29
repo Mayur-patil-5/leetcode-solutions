@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 145
+Total Solved: 146
 
 ## Easy
 
@@ -52,6 +52,7 @@ Total Solved: 145
 - Maximum Nesting Depth of the Parentheses ([Java](Easy/1737_Maximum_Nesting_Depth_of_the_Parentheses.java))
 - Check if Array Is Sorted and Rotated ([Java](Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java))
 - Largest Odd Number in String ([Java](Easy/2032_Largest_Odd_Number_in_String.java))
+- Check if All Characters Have Equal Number of Occurrences ([Java](Easy/2053_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.java))
 - Time Needed to Buy Tickets ([Java](Easy/2195_Time_Needed_to_Buy_Tickets.java))
 - Find Target Indices After Sorting Array ([Java](Easy/2210_Find_Target_Indices_After_Sorting_Array.java))
 - Count Elements With Strictly Smaller and Greater Elements  ([Java](Easy/2269_Count_Elements_With_Strictly_Smaller_and_Greater_Elements_.java))
@@ -160,7 +161,7 @@ Total Solved: 145
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 77 |
+| Easy | 78 |
 | Medium | 64 |
 | Hard | 4 |
 
