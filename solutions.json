@@ -1872,6 +1872,19 @@
     "path": "Easy/1878_Check_if_Array_Is_Sorted_and_Rotated.java"
   },
   {
+    "problemId": "2053",
+    "problemTitle": "Check if All Characters Have Equal Number of Occurrences",
+    "problemSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "42.4 MB",
+    "submissionId": "2184710889",
+    "timestamp": "1793278339",
+    "path": "Easy/2053_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1885,16 +1898,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2053",
-    "problemTitle": "Check if All Characters Have Equal Number of Occurrences",
-    "problemSlug": "check-if-all-characters-have-equal-number-of-occurrences",
+    "problemId": "2532",
+    "problemTitle": "Remove Letter To Equalize Frequency",
+    "problemSlug": "remove-letter-to-equalize-frequency",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "42.4 MB",
-    "submissionId": "2184710889",
-    "timestamp": "1793278339",
-    "path": "Easy/2053_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.java"
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2185726044",
+    "timestamp": "1793383852",
+    "path": "Easy/2532_Remove_Letter_To_Equalize_Frequency.java"
   }
 ]
