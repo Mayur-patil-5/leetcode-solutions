@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 147
+Total Solved: 148
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 147
 - Remove Letter To Equalize Frequency ([Java](Easy/2532_Remove_Letter_To_Equalize_Frequency.java))
 - Alternating Digit Sum ([Java](Easy/2630_Alternating_Digit_Sum.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
+- Remove Trailing Zeros From a String ([Java](Easy/2819_Remove_Trailing_Zeros_From_a_String.java))
 - Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
 - Total Distance Traveled ([Java](Easy/2857_Total_Distance_Traveled.java))
 - Subarrays Distinct Element Sum of Squares I ([Java](Easy/3163_Subarrays_Distinct_Element_Sum_of_Squares_I.java))
@@ -162,7 +163,7 @@ Total Solved: 147
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 79 |
+| Easy | 80 |
 | Medium | 64 |
 | Hard | 4 |
 
