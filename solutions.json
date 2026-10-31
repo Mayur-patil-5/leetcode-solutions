@@ -1885,6 +1885,19 @@
     "path": "Easy/2053_Check_if_All_Characters_Have_Equal_Number_of_Occurrences.java"
   },
   {
+    "problemId": "2532",
+    "problemTitle": "Remove Letter To Equalize Frequency",
+    "problemSlug": "remove-letter-to-equalize-frequency",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "42.1 MB",
+    "submissionId": "2185726044",
+    "timestamp": "1793383852",
+    "path": "Easy/2532_Remove_Letter_To_Equalize_Frequency.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1898,16 +1911,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2532",
-    "problemTitle": "Remove Letter To Equalize Frequency",
-    "problemSlug": "remove-letter-to-equalize-frequency",
+    "problemId": "2819",
+    "problemTitle": "Remove Trailing Zeros From a String",
+    "problemSlug": "remove-trailing-zeros-from-a-string",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "42.1 MB",
-    "submissionId": "2185726044",
-    "timestamp": "1793383852",
-    "path": "Easy/2532_Remove_Letter_To_Equalize_Frequency.java"
+    "runtime": "1 ms",
+    "memory": "45.9 MB",
+    "submissionId": "2186388261",
+    "timestamp": "1793468357",
+    "path": "Easy/2819_Remove_Trailing_Zeros_From_a_String.java"
   }
 ]
