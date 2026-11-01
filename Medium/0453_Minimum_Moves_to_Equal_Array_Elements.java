@@ -3,10 +3,10 @@
  * Problem ID: 453
  * Difficulty: Medium
  * Language: Java
- * Runtime: 1 ms
- * Memory: 47.3 MB
+ * Runtime: 2 ms
+ * Memory: 46.6 MB
  * Synced From: LeetCode
- * Date: 2026-08-27
+ * Date: 2026-11-01
  */
 
 class Solution {
