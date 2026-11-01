@@ -1930,10 +1930,10 @@
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "14 ms",
-    "memory": "45.5 MB",
-    "submissionId": "2186907570",
-    "timestamp": "1793529813",
+    "runtime": "15 ms",
+    "memory": "46 MB",
+    "submissionId": "2186908950",
+    "timestamp": "1793529960",
     "path": "Easy/0009_Palindrome_Number.java"
   }
 ]
