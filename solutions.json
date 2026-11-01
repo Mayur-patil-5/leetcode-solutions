@@ -695,10 +695,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "1 ms",
-    "memory": "47.3 MB",
-    "submissionId": "2122289975",
-    "timestamp": "1787857179",
+    "runtime": "2 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2186898758",
+    "timestamp": "1793528859",
     "path": "Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java"
   },
   {
@@ -1898,19 +1898,6 @@
     "path": "Easy/2532_Remove_Letter_To_Equalize_Frequency.java"
   },
   {
-    "problemId": "178",
-    "problemTitle": "Rank Scores",
-    "problemSlug": "rank-scores",
-    "difficulty": "Medium",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "314 ms",
-    "memory": "0B",
-    "submissionId": "2126432916",
-    "timestamp": "1788198301",
-    "path": "Medium/0178_Rank_Scores.sql"
-  },
-  {
     "problemId": "2819",
     "problemTitle": "Remove Trailing Zeros From a String",
     "problemSlug": "remove-trailing-zeros-from-a-string",
@@ -1922,5 +1909,18 @@
     "submissionId": "2186388261",
     "timestamp": "1793468357",
     "path": "Easy/2819_Remove_Trailing_Zeros_From_a_String.java"
+  },
+  {
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "314 ms",
+    "memory": "0B",
+    "submissionId": "2126432916",
+    "timestamp": "1788198301",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
