@@ -1,10 +1,11 @@
 # LeetCode Solutions
 
-Total Solved: 148
+Total Solved: 149
 
 ## Easy
 
 - Two Sum ([Java](Easy/0001_Two_Sum.java))
+- Palindrome Number ([Java](Easy/0009_Palindrome_Number.java))
 - Longest Common Prefix ([Java](Easy/0014_Longest_Common_Prefix.java))
 - Valid Parentheses ([Java](Easy/0020_Valid_Parentheses.java))
 - Remove Duplicates from Sorted Array ([Java](Easy/0026_Remove_Duplicates_from_Sorted_Array.java))
@@ -163,7 +164,7 @@ Total Solved: 148
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 80 |
+| Easy | 81 |
 | Medium | 64 |
 | Hard | 4 |
 
