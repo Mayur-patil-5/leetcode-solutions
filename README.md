@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 149
+Total Solved: 150
 
 ## Easy
 
@@ -145,6 +145,7 @@ Total Solved: 149
 - Strictly Palindromic Number ([Java](Medium/2481_Strictly_Palindromic_Number.java))
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Closest Prime Numbers in Range ([Java](Medium/2610_Closest_Prime_Numbers_in_Range.java))
+- Check if it is Possible to Split Array ([Java](Medium/2916_Check_if_it_is_Possible_to_Split_Array.java))
 - Minimum Swaps to Sort by Digit Sum ([Java](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java))
 - Maximum K to Sort a Permutation ([Java](Medium/3950_Maximum_K_to_Sort_a_Permutation.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
@@ -165,7 +166,7 @@ Total Solved: 149
 | Difficulty | Count |
 |------------|--------|
 | Easy | 81 |
-| Medium | 64 |
+| Medium | 65 |
 | Hard | 4 |
 
 ---
