@@ -1911,6 +1911,19 @@
     "path": "Easy/2819_Remove_Trailing_Zeros_From_a_String.java"
   },
   {
+    "problemId": "9",
+    "problemTitle": "Palindrome Number",
+    "problemSlug": "palindrome-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "15 ms",
+    "memory": "46 MB",
+    "submissionId": "2186908950",
+    "timestamp": "1793529960",
+    "path": "Easy/0009_Palindrome_Number.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1924,16 +1937,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "9",
-    "problemTitle": "Palindrome Number",
-    "problemSlug": "palindrome-number",
-    "difficulty": "Easy",
+    "problemId": "2916",
+    "problemTitle": "Check if it is Possible to Split Array",
+    "problemSlug": "check-if-it-is-possible-to-split-array",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "15 ms",
-    "memory": "46 MB",
-    "submissionId": "2186908950",
-    "timestamp": "1793529960",
-    "path": "Easy/0009_Palindrome_Number.java"
+    "runtime": "1 ms",
+    "memory": "43.8 MB",
+    "submissionId": "2187871928",
+    "timestamp": "1793633855",
+    "path": "Medium/2916_Check_if_it_is_Possible_to_Split_Array.java"
   }
 ]
