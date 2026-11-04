@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 150
+Total Solved: 151
 
 ## Easy
 
@@ -60,6 +60,7 @@ Total Solved: 150
 - Count Days Spent Together ([Java](Easy/2496_Count_Days_Spent_Together.java))
 - Remove Letter To Equalize Frequency ([Java](Easy/2532_Remove_Letter_To_Equalize_Frequency.java))
 - Alternating Digit Sum ([Java](Easy/2630_Alternating_Digit_Sum.java))
+- Pass the Pillow ([Java](Easy/2645_Pass_the_Pillow.java))
 - Calculate Delayed Arrival Time ([Java](Easy/2748_Calculate_Delayed_Arrival_Time.java))
 - Remove Trailing Zeros From a String ([Java](Easy/2819_Remove_Trailing_Zeros_From_a_String.java))
 - Sum of Squares of Special Elements  ([Java](Easy/2844_Sum_of_Squares_of_Special_Elements_.java))
@@ -165,7 +166,7 @@ Total Solved: 150
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 81 |
+| Easy | 82 |
 | Medium | 65 |
 | Hard | 4 |
 
