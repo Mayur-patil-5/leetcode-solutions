@@ -1948,5 +1948,18 @@
     "submissionId": "2126432916",
     "timestamp": "1788198301",
     "path": "Medium/0178_Rank_Scores.sql"
+  },
+  {
+    "problemId": "2645",
+    "problemTitle": "Pass the Pillow",
+    "problemSlug": "pass-the-pillow",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.5 MB",
+    "submissionId": "2189447778",
+    "timestamp": "1793806621",
+    "path": "Easy/2645_Pass_the_Pillow.java"
   }
 ]
