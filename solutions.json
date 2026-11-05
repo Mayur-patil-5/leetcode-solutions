@@ -1937,6 +1937,19 @@
     "path": "Medium/2916_Check_if_it_is_Possible_to_Split_Array.java"
   },
   {
+    "problemId": "2645",
+    "problemTitle": "Pass the Pillow",
+    "problemSlug": "pass-the-pillow",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "41.5 MB",
+    "submissionId": "2189447778",
+    "timestamp": "1793806621",
+    "path": "Easy/2645_Pass_the_Pillow.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1950,16 +1963,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "2645",
-    "problemTitle": "Pass the Pillow",
-    "problemSlug": "pass-the-pillow",
+    "problemId": "1486",
+    "problemTitle": "Find the Distance Value Between Two Arrays",
+    "problemSlug": "find-the-distance-value-between-two-arrays",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "41.5 MB",
-    "submissionId": "2189447778",
-    "timestamp": "1793806621",
-    "path": "Easy/2645_Pass_the_Pillow.java"
+    "runtime": "4 ms",
+    "memory": "45.6 MB",
+    "submissionId": "2190212828",
+    "timestamp": "1793897119",
+    "path": "Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.java"
   }
 ]
