@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 151
+Total Solved: 152
 
 ## Easy
 
@@ -45,6 +45,7 @@ Total Solved: 151
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Remove Outermost Parentheses ([Java](Easy/1078_Remove_Outermost_Parentheses.java))
 - Find Numbers with Even Number of Digits ([Java](Easy/1421_Find_Numbers_with_Even_Number_of_Digits.java))
+- Find the Distance Value Between Two Arrays ([Java](Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.java))
 - Kids With the Greatest Number of Candies ([Java](Easy/1528_Kids_With_the_Greatest_Number_of_Candies.java))
 - Number of Students Doing Homework at a Given Time ([Java](Easy/1560_Number_of_Students_Doing_Homework_at_a_Given_Time.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
@@ -166,7 +167,7 @@ Total Solved: 151
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 82 |
+| Easy | 83 |
 | Medium | 65 |
 | Hard | 4 |
 
