@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 152
+Total Solved: 153
 
 ## Easy
 
@@ -125,6 +125,7 @@ Total Solved: 152
 - Find All Duplicates in an Array ([Java](Medium/0442_Find_All_Duplicates_in_an_Array.java))
 - Minimum Moves to Equal Array Elements ([Java](Medium/0453_Minimum_Moves_to_Equal_Array_Elements.java))
 - Next Greater Element II ([Java](Medium/0503_Next_Greater_Element_II.java))
+- Single Element in a Sorted Array ([Java](Medium/0540_Single_Element_in_a_Sorted_Array.java))
 - Subarray Sum Equals K ([Java](Medium/0560_Subarray_Sum_Equals_K.java))
 - Valid Square ([Java](Medium/0593_Valid_Square.java))
 - Valid Triangle Number ([Java](Medium/0611_Valid_Triangle_Number.java))
@@ -168,7 +169,7 @@ Total Solved: 152
 | Difficulty | Count |
 |------------|--------|
 | Easy | 83 |
-| Medium | 65 |
+| Medium | 66 |
 | Hard | 4 |
 
 ---
