@@ -1963,6 +1963,19 @@
     "path": "Easy/1486_Find_the_Distance_Value_Between_Two_Arrays.java"
   },
   {
+    "problemId": "540",
+    "problemTitle": "Single Element in a Sorted Array",
+    "problemSlug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "52.6 MB",
+    "submissionId": "2192039476",
+    "timestamp": "1794158291",
+    "path": "Medium/0540_Single_Element_in_a_Sorted_Array.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1976,16 +1989,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "540",
-    "problemTitle": "Single Element in a Sorted Array",
-    "problemSlug": "single-element-in-a-sorted-array",
-    "difficulty": "Medium",
+    "problemId": "219",
+    "problemTitle": "Contains Duplicate II",
+    "problemSlug": "contains-duplicate-ii",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "0 ms",
-    "memory": "52.6 MB",
-    "submissionId": "2192039476",
-    "timestamp": "1794158291",
-    "path": "Medium/0540_Single_Element_in_a_Sorted_Array.java"
+    "runtime": "33 ms",
+    "memory": "123.6 MB",
+    "submissionId": "2192551758",
+    "timestamp": "1794235967",
+    "path": "Easy/0219_Contains_Duplicate_II.java"
   }
 ]
