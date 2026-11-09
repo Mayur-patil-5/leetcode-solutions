@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 153
+Total Solved: 154
 
 ## Easy
 
@@ -25,6 +25,7 @@ Total Solved: 153
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Isomorphic Strings ([Java](Easy/0205_Isomorphic_Strings.java))
 - Contains Duplicate ([Java](Easy/0217_Contains_Duplicate.java))
+- Contains Duplicate II ([Java](Easy/0219_Contains_Duplicate_II.java))
 - Implement Queue using Stacks ([Java](Easy/0232_Implement_Queue_using_Stacks.java))
 - Ugly Number ([Java](Easy/0263_Ugly_Number.java))
 - Missing Number ([Java](Easy/0268_Missing_Number.java))
@@ -168,7 +169,7 @@ Total Solved: 153
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 83 |
+| Easy | 84 |
 | Medium | 66 |
 | Hard | 4 |
 
