@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 154
+Total Solved: 155
 
 ## Easy
 
@@ -73,6 +73,7 @@ Total Solved: 154
 - Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
+- Minimum Positive Sum Subarray  ([Java](Easy/3644_Minimum_Positive_Sum_Subarray_.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
 - Fruits Into Baskets II ([Java](Easy/3790_Fruits_Into_Baskets_II.java))
 - Unique 3-Digit Even Numbers ([Java](Easy/3799_Unique_3-Digit_Even_Numbers.java))
@@ -169,7 +170,7 @@ Total Solved: 154
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 84 |
+| Easy | 85 |
 | Medium | 66 |
 | Hard | 4 |
 
