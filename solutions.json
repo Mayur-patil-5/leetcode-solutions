@@ -1976,6 +1976,19 @@
     "path": "Medium/0540_Single_Element_in_a_Sorted_Array.java"
   },
   {
+    "problemId": "219",
+    "problemTitle": "Contains Duplicate II",
+    "problemSlug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "33 ms",
+    "memory": "123.6 MB",
+    "submissionId": "2192551758",
+    "timestamp": "1794235967",
+    "path": "Easy/0219_Contains_Duplicate_II.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -1989,16 +2002,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "219",
-    "problemTitle": "Contains Duplicate II",
-    "problemSlug": "contains-duplicate-ii",
+    "problemId": "3644",
+    "problemTitle": "Minimum Positive Sum Subarray ",
+    "problemSlug": "minimum-positive-sum-subarray",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "33 ms",
-    "memory": "123.6 MB",
-    "submissionId": "2192551758",
-    "timestamp": "1794235967",
-    "path": "Easy/0219_Contains_Duplicate_II.java"
+    "runtime": "5 ms",
+    "memory": "45.8 MB",
+    "submissionId": "2196079726",
+    "timestamp": "1794676505",
+    "path": "Easy/3644_Minimum_Positive_Sum_Subarray_.java"
   }
 ]
