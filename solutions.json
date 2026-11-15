@@ -1989,6 +1989,19 @@
     "path": "Easy/0219_Contains_Duplicate_II.java"
   },
   {
+    "problemId": "3644",
+    "problemTitle": "Minimum Positive Sum Subarray ",
+    "problemSlug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "45.8 MB",
+    "submissionId": "2196079726",
+    "timestamp": "1794676505",
+    "path": "Easy/3644_Minimum_Positive_Sum_Subarray_.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -2002,16 +2015,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3644",
-    "problemTitle": "Minimum Positive Sum Subarray ",
-    "problemSlug": "minimum-positive-sum-subarray",
-    "difficulty": "Easy",
+    "problemId": "1631",
+    "problemTitle": "Number of Sub-arrays With Odd Sum",
+    "problemSlug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "5 ms",
-    "memory": "45.8 MB",
-    "submissionId": "2196079726",
-    "timestamp": "1794676505",
-    "path": "Easy/3644_Minimum_Positive_Sum_Subarray_.java"
+    "runtime": "7 ms",
+    "memory": "81.4 MB",
+    "submissionId": "2196652344",
+    "timestamp": "1794750252",
+    "path": "Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.java"
   }
 ]
