@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 155
+Total Solved: 156
 
 ## Easy
 
@@ -140,6 +140,7 @@ Total Solved: 155
 - Best Sightseeing Pair ([Java](Medium/1063_Best_Sightseeing_Pair.java))
 - Circle and Rectangle Overlapping ([Java](Medium/1501_Circle_and_Rectangle_Overlapping.java))
 - Count Number of Teams ([Java](Medium/1511_Count_Number_of_Teams.java))
+- Number of Sub-arrays With Odd Sum ([Java](Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.java))
 - Minimum Length of String After Deleting Similar Ends ([Java](Medium/1850_Minimum_Length_of_String_After_Deleting_Similar_Ends.java))
 - Sum Game ([Java](Medium/2039_Sum_Game.java))
 - Find Original Array From Doubled Array ([Java](Medium/2117_Find_Original_Array_From_Doubled_Array.java))
@@ -171,7 +172,7 @@ Total Solved: 155
 | Difficulty | Count |
 |------------|--------|
 | Easy | 85 |
-| Medium | 66 |
+| Medium | 67 |
 | Hard | 4 |
 
 ---
