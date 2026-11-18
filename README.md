@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 156
+Total Solved: 157
 
 ## Easy
 
@@ -152,6 +152,7 @@ Total Solved: 156
 - Divide Players Into Teams of Equal Skill ([Java](Medium/2581_Divide_Players_Into_Teams_of_Equal_Skill.java))
 - Closest Prime Numbers in Range ([Java](Medium/2610_Closest_Prime_Numbers_in_Range.java))
 - Check if it is Possible to Split Array ([Java](Medium/2916_Check_if_it_is_Possible_to_Split_Array.java))
+- Minimum Number of Changes to Make Binary String Beautiful ([Java](Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.java))
 - Minimum Swaps to Sort by Digit Sum ([Java](Medium/3847_Minimum_Swaps_to_Sort_by_Digit_Sum.java))
 - Maximum K to Sort a Permutation ([Java](Medium/3950_Maximum_K_to_Sort_a_Permutation.java))
 - Maximum Alternating Sum of Squares ([Java](Medium/4078_Maximum_Alternating_Sum_of_Squares.java))
@@ -172,7 +173,7 @@ Total Solved: 156
 | Difficulty | Count |
 |------------|--------|
 | Easy | 85 |
-| Medium | 67 |
+| Medium | 68 |
 | Hard | 4 |
 
 ---
