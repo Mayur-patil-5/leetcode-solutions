@@ -2002,6 +2002,19 @@
     "path": "Easy/3644_Minimum_Positive_Sum_Subarray_.java"
   },
   {
+    "problemId": "1631",
+    "problemTitle": "Number of Sub-arrays With Odd Sum",
+    "problemSlug": "number-of-sub-arrays-with-odd-sum",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "81.4 MB",
+    "submissionId": "2196652344",
+    "timestamp": "1794750252",
+    "path": "Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -2015,16 +2028,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "1631",
-    "problemTitle": "Number of Sub-arrays With Odd Sum",
-    "problemSlug": "number-of-sub-arrays-with-odd-sum",
+    "problemId": "3174",
+    "problemTitle": "Minimum Number of Changes to Make Binary String Beautiful",
+    "problemSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "7 ms",
-    "memory": "81.4 MB",
-    "submissionId": "2196652344",
-    "timestamp": "1794750252",
-    "path": "Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.java"
+    "runtime": "3 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2198782271",
+    "timestamp": "1795016500",
+    "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.java"
   }
 ]
