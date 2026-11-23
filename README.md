@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 157
+Total Solved: 158
 
 ## Easy
 
@@ -72,6 +72,7 @@ Total Solved: 157
 - Smallest Missing Integer Greater Than Sequential Prefix Sum ([Java](Easy/3236_Smallest_Missing_Integer_Greater_Than_Sequential_Prefix_Sum.java))
 - Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
+- Count Pairs That Form a Complete Day I ([Java](Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Minimum Positive Sum Subarray  ([Java](Easy/3644_Minimum_Positive_Sum_Subarray_.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
@@ -172,7 +173,7 @@ Total Solved: 157
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 85 |
+| Easy | 86 |
 | Medium | 68 |
 | Hard | 4 |
 
