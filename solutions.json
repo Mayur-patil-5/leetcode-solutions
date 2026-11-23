@@ -2015,6 +2015,19 @@
     "path": "Medium/1631_Number_of_Sub-arrays_With_Odd_Sum.java"
   },
   {
+    "problemId": "3174",
+    "problemTitle": "Minimum Number of Changes to Make Binary String Beautiful",
+    "problemSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "46.6 MB",
+    "submissionId": "2198782271",
+    "timestamp": "1795016500",
+    "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -2028,16 +2041,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3174",
-    "problemTitle": "Minimum Number of Changes to Make Binary String Beautiful",
-    "problemSlug": "minimum-number-of-changes-to-make-binary-string-beautiful",
-    "difficulty": "Medium",
+    "problemId": "3421",
+    "problemTitle": "Count Pairs That Form a Complete Day I",
+    "problemSlug": "count-pairs-that-form-a-complete-day-i",
+    "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "3 ms",
-    "memory": "46.6 MB",
-    "submissionId": "2198782271",
-    "timestamp": "1795016500",
-    "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.java"
+    "runtime": "2 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2202059781",
+    "timestamp": "1795452334",
+    "path": "Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java"
   }
 ]
