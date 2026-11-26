@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 158
+Total Solved: 159
 
 ## Easy
 
@@ -73,6 +73,7 @@ Total Solved: 158
 - Distribute Elements Into Two Arrays I ([Java](Easy/3347_Distribute_Elements_Into_Two_Arrays_I.java))
 - Maximum Length Substring With Two Occurrences ([Java](Easy/3349_Maximum_Length_Substring_With_Two_Occurrences.java))
 - Count Pairs That Form a Complete Day I ([Java](Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java))
+- Stone Removal Game ([Java](Easy/3625_Stone_Removal_Game.java))
 - Smallest Divisible Digit Product I ([Java](Easy/3626_Smallest_Divisible_Digit_Product_I.java))
 - Minimum Positive Sum Subarray  ([Java](Easy/3644_Minimum_Positive_Sum_Subarray_.java))
 - Find the Largest Almost Missing Integer ([Java](Easy/3705_Find_the_Largest_Almost_Missing_Integer.java))
@@ -173,7 +174,7 @@ Total Solved: 158
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 86 |
+| Easy | 87 |
 | Medium | 68 |
 | Hard | 4 |
 
