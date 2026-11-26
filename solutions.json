@@ -2028,6 +2028,19 @@
     "path": "Medium/3174_Minimum_Number_of_Changes_to_Make_Binary_String_Beautiful.java"
   },
   {
+    "problemId": "3421",
+    "problemTitle": "Count Pairs That Form a Complete Day I",
+    "problemSlug": "count-pairs-that-form-a-complete-day-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2202059781",
+    "timestamp": "1795452334",
+    "path": "Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java"
+  },
+  {
     "problemId": "178",
     "problemTitle": "Rank Scores",
     "problemSlug": "rank-scores",
@@ -2041,16 +2054,16 @@
     "path": "Medium/0178_Rank_Scores.sql"
   },
   {
-    "problemId": "3421",
-    "problemTitle": "Count Pairs That Form a Complete Day I",
-    "problemSlug": "count-pairs-that-form-a-complete-day-i",
+    "problemId": "3625",
+    "problemTitle": "Stone Removal Game",
+    "problemSlug": "stone-removal-game",
     "difficulty": "Easy",
     "language": "Java",
     "extension": "java",
-    "runtime": "2 ms",
-    "memory": "43.7 MB",
-    "submissionId": "2202059781",
-    "timestamp": "1795452334",
-    "path": "Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java"
+    "runtime": "0 ms",
+    "memory": "41.6 MB",
+    "submissionId": "2203985817",
+    "timestamp": "1795706558",
+    "path": "Easy/3625_Stone_Removal_Game.java"
   }
 ]
