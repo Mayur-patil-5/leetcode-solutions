@@ -2041,19 +2041,6 @@
     "path": "Easy/3421_Count_Pairs_That_Form_a_Complete_Day_I.java"
   },
   {
-    "problemId": "178",
-    "problemTitle": "Rank Scores",
-    "problemSlug": "rank-scores",
-    "difficulty": "Medium",
-    "language": "MySQL",
-    "extension": "sql",
-    "runtime": "314 ms",
-    "memory": "0B",
-    "submissionId": "2126432916",
-    "timestamp": "1788198301",
-    "path": "Medium/0178_Rank_Scores.sql"
-  },
-  {
     "problemId": "3625",
     "problemTitle": "Stone Removal Game",
     "problemSlug": "stone-removal-game",
@@ -2065,5 +2052,18 @@
     "submissionId": "2203985817",
     "timestamp": "1795706558",
     "path": "Easy/3625_Stone_Removal_Game.java"
+  },
+  {
+    "problemId": "178",
+    "problemTitle": "Rank Scores",
+    "problemSlug": "rank-scores",
+    "difficulty": "Medium",
+    "language": "MySQL",
+    "extension": "sql",
+    "runtime": "314 ms",
+    "memory": "0B",
+    "submissionId": "2126432916",
+    "timestamp": "1788198301",
+    "path": "Medium/0178_Rank_Scores.sql"
   }
 ]
